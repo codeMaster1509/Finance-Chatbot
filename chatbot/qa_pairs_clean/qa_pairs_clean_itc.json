@@ -1,0 +1,707 @@
+[
+    {
+        "question": "How much was ITC's net sales in March 2024?",
+        "answer": "ITC's net sales were Rs 17922.70 crore in March 2024.",
+        "context": "Net Sales at Rs 17922.70 crore in March 2024 up 1.63  from Rs. 17634.89 crore in March 2023."
+    },
+    {
+        "question": "How much was ITC's quarterly net profit in March 2024?",
+        "answer": "ITC's quarterly net profit was Rs. 5120.55 crore in March 2024.",
+        "context": "Quarterly Net Profit at Rs. 5120.55 crore in March 2024 down 1.06  from Rs. 5175.48 crore in March 2023."
+    },
+    {
+        "question": "How much was ITC's EBITDA in March 2024?",
+        "answer": "ITC's EBITDA was Rs. 7310.05 crore in March 2024.",
+        "context": "EBITDA stands at Rs. 7310.05 crore in March 2024 up 1.06  from Rs. 7233.65 crore in March 2023."
+    },
+    {
+        "question": "How much was ITC's EPS in March 2024?",
+        "answer": "ITC's EPS was Rs. 4.10 in March 2024.",
+        "context": "ITC EPS has decreased to Rs. 4.10 in March 2024 from Rs. 4.17 in March 2023."
+    },
+    {
+        "question": "What was the closing price of ITC shares on June 27 2024?",
+        "answer": "ITC shares closed at 425.60 on June 27 2024 (NSE).",
+        "context": "ITC shares closed at 425.60 on June 27 2024 (NSE) and has given 6.76  returns over the last 6 months and 4.51  over the last 12 months."
+    },
+    {
+        "question": "What was the return on ITC shares over the last 6 months?",
+        "answer": "The return on ITC shares over the last 6 months was 6.76%.",
+        "context": "ITC shares closed at 425.60 on June 27 2024 (NSE) and has given 6.76  returns over the last 6 months and 4.51  over the last 12 months."
+    },
+    {
+        "question": "What was the return on ITC shares over the last 12 months?",
+        "answer": "The return on ITC shares over the last 12 months was 4.51%.",
+        "context": "ITC shares closed at 425.60 on June 27 2024 (NSE) and has given 6.76  returns over the last 6 months and 4.51  over the last 12 months."
+    },
+    {
+        "question": "What is the overall trend of ITC's financial performance in March 2024 compared to March 2023?",
+        "answer": "ITC's financial performance in March 2024 was mixed compared to March 2023. Net sales increased by 1.63%, EBITDA increased by 1.06%, but quarterly net profit decreased by 1.06% and EPS decreased from Rs. 4.17 to Rs. 4.10.",
+        "context": "Net Sales at Rs 17922.70 crore in March 2024 up 1.63  from Rs. 17634.89 crore in March 2023.\nQuarterly Net Profit at Rs. 5120.55 crore in March 2024 down 1.06  from Rs. 5175.48 crore in March 2023.\nEBITDA stands at Rs. 7310.05 crore in March 2024 up 1.06  from Rs. 7233.65 crore in March 2023.\nITC EPS has decreased to Rs. 4.10 in March 2024 from Rs. 4.17 in March 2023."
+    },
+    {
+        "question": "What is the market capitalization of Apple?",
+        "answer": "The passage does not mention Apple's current market capitalization.",
+        "context": "The paragraph does not provide any information about Apple's market capitalization."
+    },
+    {
+        "question": "What is the net income of Microsoft?",
+        "answer": "The passage does not mention Microsoft's current net income.",
+        "context": "The paragraph does not provide any information about Microsoft's net income."
+    },
+    {
+        "question": "Who is the CEO of Google?",
+        "answer": "The passage does not mention Google's CEO.",
+        "context": "The paragraph does not provide any information about Google's CEO."
+    },
+    {
+        "question": "What is the price-to-earnings ratio of Amazon?",
+        "answer": "The passage does not mention Amazon's current price-to-earnings ratio.",
+        "context": "The paragraph does not provide any information about Amazon's price-to-earnings ratio."
+    },
+    {
+        "question": "What is the dividend yield of Coca-Cola?",
+        "answer": "The passage does not mention Coca-Cola's current dividend yield.",
+        "context": "The paragraph does not provide any information about Coca-Cola's dividend yield."
+    },
+    {
+        "question": "What is the debt-to-equity ratio of Tesla?",
+        "answer": "The passage does not mention Tesla's current debt-to-equity ratio.",
+        "context": "The paragraph does not provide any information about Tesla's debt-to-equity ratio."
+    },
+    {
+        "question": "What is the return on equity of Johnson & Johnson?",
+        "answer": "The passage does not mention Johnson & Johnson's current return on equity.",
+        "context": "The paragraph does not provide any information about Johnson & Johnson's return on equity."
+    },
+    {
+        "question": "What is the gross profit margin of Pfizer?",
+        "answer": "The passage does not mention Pfizer's current gross profit margin.",
+        "context": "The paragraph does not provide any information about Pfizer's gross profit margin."
+    },
+    {
+        "question": "What were the Net Sales of ITC in March 2024 and how did it compare to the previous year?",
+        "answer": "ITC's Net Sales in March 2024 reached Rs 16579.29 crore, marking a 1.11% increase from Rs. 16397.98 crore in March 2023.",
+        "context": "The provided financial data reveals that ITC experienced a slight growth in its top line, with Net Sales edging up by 1.11% in March 2024 compared to the same period in the previous year. This indicates that the company was able to generate slightly higher revenue from its operations."
+    },
+    {
+        "question": "How did ITC's Quarterly Net Profit fare in March 2024 compared to the previous year?",
+        "answer": "ITC witnessed a slight decline in its Quarterly Net Profit, which stood at Rs. 5020.20 crore in March 2024, reflecting a 1.31% decrease from Rs. 5086.86 crore in March 2023.",
+        "context": "Despite the slight increase in Net Sales, ITC's profitability was marginally lower in March 2024 compared to the previous year. The Quarterly Net Profit contracted by 1.31%, indicating potential pressure on margins or increased expenses."
+    },
+    {
+        "question": "What was the EBITDA of ITC in March 2024 and how did it compare to March 2023?",
+        "answer": "ITC's EBITDA in March 2024 was Rs. 6961.23 crore, showing a marginal increase of 0.08% from Rs. 6955.70 crore in March 2023.",
+        "context": "The provided data indicates a marginal improvement in ITC's earnings before interest, taxes, depreciation, and amortization (EBITDA) in March 2024 compared to the previous year. The 0.08% uptick suggests relatively stable operational profitability."
+    },
+    {
+        "question": "What was the EPS for ITC in March 2024 and how did it compare to the same period last year?",
+        "answer": "ITC's EPS decreased to Rs. 4.02 in March 2024 from Rs. 4.10 in March 2023, indicating a slight decline in profitability on a per-share basis.",
+        "context": "The decline in ITC's EPS in March 2024 compared to the previous year signifies a slight reduction in the company's profitability from the perspective of individual shareholders. This decrease could be attributed to various factors, including the marginal decline in Quarterly Net Profit."
+    },
+    {
+        "question": "What was the closing price of ITC shares on June 25, 2024, on the NSE?",
+        "answer": "ITC shares closed at Rs. 423.30 on the National Stock Exchange (NSE) on June 25, 2024.",
+        "context": "This data point provides the closing price of ITC's shares on a specific date and exchange. It is important to note that stock prices can fluctuate significantly based on market sentiment, economic conditions, and company-specific news or events."
+    },
+    {
+        "question": "What were the 6-month and 12-month returns for ITC shares as of June 25, 2024?",
+        "answer": "As of June 25, 2024, ITC shares had generated a return of 7.26% over the past 6 months and 5.03% over the past 12 months.",
+        "context": "The data indicates that ITC's shares had delivered positive returns to investors over both the short and medium term. The 7.26% return over 6 months suggests relatively strong recent performance, while the 5.03% return over 12 months indicates moderate but positive growth over a longer timeframe."
+    },
+    {
+        "question": "Did ITC's Net Sales increase or decrease in March 2024 compared to the previous year?",
+        "answer": "ITC's Net Sales increased by 1.11% in March 2024 compared to March 2023.",
+        "context": "This clarifies the direction of change in ITC's Net Sales, indicating positive growth in the company's top line. The 1."
+    },
+    {
+        "question": "What was ITC's consolidated gross sales for Q4FY24?",
+        "answer": "ITC reported consolidated gross sales of INR 194465 Mn for Q4FY24, reflecting a 2.0% growth year-over-year (YoY) but remaining flat sequentially.",
+        "context": "ITC's consolidated gross sales for Q4FY24 stood at INR 194465 Mn, exhibiting a moderate growth of 2.0% compared to the same period last year. However, on a sequential basis, the gross sales remained unchanged."
+    },
+    {
+        "question": "How did ITC's gross sales perform in FY24 compared to the previous year?",
+        "answer": "ITC's gross sales for FY24 were marginally lower on a YoY basis, recording a decline of 0.4% to INR 768405 Mn.",
+        "context": "For the entire fiscal year 2024 (FY24), ITC's gross sales amounted to INR 768405 Mn, marginally lower by 0.4% compared to the previous fiscal year."
+    },
+    {
+        "question": "What was ITC's EBITDA for Q4FY24?",
+        "answer": "ITC's EBITDA for Q4FY24 was INR 66262 Mn, falling short of analysts' estimates by 1.6% due to increased other expenses.",
+        "context": "ITC's EBITDA for Q4FY24 reached INR 66262 Mn. This figure fell short of analysts' expectations by 1.6%, primarily due to higher other expenses incurred during the quarter."
+    },
+    {
+        "question": "How did ITC's PAT perform in Q4FY24?",
+        "answer": "ITC's PAT for Q4FY24 was INR 51206 Mn, reflecting a 1.1% growth YoY but a 4.0% decline QoQ, attributed to higher tax and D&A expenses.",
+        "context": "ITC's PAT for Q4FY24 amounted to INR 51206 Mn. While this represented a modest 1.1% growth compared to the same period last year, it marked a 4.0% decline sequentially, primarily due to increased tax and D&A expenses."
+    },
+    {
+        "question": "What was the exceptional item for ITC in Q4FY24?",
+        "answer": "ITC reported an exceptional item of INR 21 Mn in Q4FY24, pertaining to the demerger of its hotel business.",
+        "context": "ITC reported an exceptional item of INR 21 Mn in Q4FY24. This item was related to the demerger of the company's hotel business."
+    },
+    {
+        "question": "How did ITC's adjusted PAT perform in FY24?",
+        "answer": "ITC's adjusted PAT for FY24 grew by 7.0% YoY to INR 204664 Mn.",
+        "context": "For the full fiscal year 2024 (FY24), ITC's adjusted PAT grew by a significant 7.0% year-over-year, reaching INR 204664 Mn."
+    },
+    {
+        "question": "What is the target price for ITC shares?",
+        "answer": "KR Choksey maintains a target price of INR 517 per ITC share, reflecting a slight downward revision from the previous target of INR 533.",
+        "context": "Based on the SOTP approach, KR Choksey maintains its multiples and arrives at a revised target price of INR 517 per ITC share. This represents a modest decrease from the previous target price of INR 533."
+    },
+    {
+        "question": "What is the rationale behind the downward revision of ITC's EPS?",
+        "answer": "KR Choksey lowered its FY26 adjusted EPS for ITC due to anticipated lower revenues in the agri and paperboard segments amidst macroeconomic pressures.",
+        "context": "KR Choksey has reduced its FY26 adjusted EPS estimate for ITC, attributing this revision to expectations of lower revenues in the agri and paperboard segments. These segments are anticipated to face challenges due to macroeconomic pressures."
+    },
+    {
+        "question": "How did ITC's ITCITC's Cigarette business perform?",
+        "answer": "ITC's Cigarette business performed well, with revenue increasing by 7.5% YoY and volume growth of 2% YoY.",
+        "context": "Motilal Oswal s research report on ITCITC s Cigarette and FMCG performance was healthy while the nonconsumer business (Paper and Agribusiness) remained weak. Consolidated revenue grew 2  YoY (est.  4.5 ). The Cigarette revenue increased 7.5  YoY with volume growth of  2  YoY (in line) price hikes of 34  and remaining through mix improvement."
+    },
+    {
+        "question": "How did ITC's Paper business perform?",
+        "answer": "ITC's Paper business was hit by demand issues, competition from China, lower pulp prices, and higher input costs, resulting in weak revenue and margins.",
+        "context": "The Paper business was hit by demand issues competition from Chinalower pulp prices and higher input costs. Both revenue and margin were weak  however a gradual recovery is likely in FY25."
+    },
+    {
+        "question": "How did ITC's Agribusiness perform?",
+        "answer": "ITC's Agribusiness continued to see a contraction in FY24 due to trade restrictions on agricommodities.",
+        "context": "Agribusiness continued to see a contraction in FY24 due to trade restrictions on agricommodities."
+    },
+    {
+        "question": "How did ITC's Hotels business perform?",
+        "answer": "ITC's Hotels business posted a robust performance with strong ARR and occupancy.",
+        "context": "Hotels posted a robust performance with strong ARR and occupancy."
+    },
+    {
+        "question": "What is Motilal Oswal's recommendation for ITC?",
+        "answer": "Motilal Oswal reiterates a BUY recommendation for ITC, with an SOTP-based TP of INR515 (based on 28x FY26E P/E).",
+        "context": "Reiterate BUY with an SOTPbased TP of INR515 (based on 28x FY26E P E)."
+    },
+    {
+        "question": "What is ITC's dividend yield?",
+        "answer": "ITC's dividend yield is 34%.",
+        "context": "The resilient nature of its core business amid an uncertain industry environment and its 34  dividend yield make ITC a good defensive bet in the ongoing volatile interest rate environment."
+    },
+    {
+        "question": "What is ITC's outlook?",
+        "answer": "ITC's outlook is positive, with the company's core business remaining resilient despite an uncertain industry environment.",
+        "context": "The resilient nature of its core business amid an uncertain industry environment and its 34  dividend yield make ITC a good defensive bet in the ongoing volatile interest rate environment."
+    },
+    {
+        "question": "What is ITC's consolidated revenue growth?",
+        "answer": "ITC's consolidated revenue grew by 2% YoY.",
+        "context": "Consolidated revenue grew 2  YoY (est.  4.5 )."
+    },
+    {
+        "question": "What are the expected benefits of the demerger of ITC's hotel business?",
+        "answer": "The demerger is expected to unlock value for minority shareholders and improve return ratios for ITC, the FMCG major.",
+        "context": "Minority shareholders are expected to benefit from the demerger of ITC's hotel business into a separate entity ITC Hotels as it may unlock value for them and improve return ratios of the FMCG major as per reports of four proxy advisory firms."
+    },
+    {
+        "question": "What is the opinion of proxy advisory firm ISS on the demerger?",
+        "answer": "ISS believes that the demerger may unlock value for ITC's shareholders and improve its return ratios.",
+        "context": "According to proxy advisory firm ISS the demerger may unlock value for its shareholders and improve ITC\u2019s return ratios."
+    },
+    {
+        "question": "How will ITC Hotels benefit from the demerger?",
+        "answer": "The demerger will enable ITC Hotels to operate with an optimal capital structure and access capital for growth.",
+        "context": "The structure will enable ITC Hotels to operate with an optimal capital structure with the ability to access capital to fund its growth requirements."
+    },
+    {
+        "question": "What is the shareholder exchange ratio in the demerger?",
+        "answer": "ITC shareholders will receive one share in ITC Hotels for every 10 shares they hold in ITC.",
+        "context": "Shareholders of ITC will get one share in the soon-to-be-listed hotel entity for every 10 shares they hold in the company."
+    },
+    {
+        "question": "Why does InGovern recommend shareholders vote in favor of the demerger?",
+        "answer": "InGovern believes that the demerger will give minority shareholders a direct stake in a specialized hotel entity and protect against potential hostile takeovers.",
+        "context": "Highlighting the benefit of demerger another advisory firm InGovern said that the current ITC shareholders will receive a direct stake in a dedicated publicly traded hotel entity becoming shareholders of a specialised company focused solely on the hotel business."
+    },
+    {
+        "question": "What is the view of SES on ITC's decision to retain a 40% stake in ITC Hotels?",
+        "answer": "SES believes that ITC's decision to retain a 40% stake is strategic and in the interest of shareholders.",
+        "context": "Proxy advisory firm SES is of the view that the decision to keep 40 per cent stake with ITC is a strategic decision to give stability and allow fair discovery of price and is in interest of shareholders."
+    },
+    {
+        "question": "Which proxy advisory firm has recommended against the demerger?",
+        "answer": "Institutional Investor Advisory Services (IiAS) has recommended that ITC shareholders vote against the demerger.",
+        "context": "However Institutional Investor Advisory Services (IiAS) has suggested shareholders of ITC Ltd to vote against the proposed demerger of the hotel business on the grounds that it does not provide complete value unlocking for shareholders."
+    },
+    {
+        "question": "What is the primary concern raised by IiAS regarding the demerger?",
+        "answer": "IiAS believes that the demerger does not provide complete value unlocking for ITC shareholders.",
+        "context": "However Institutional Investor Advisory Services (IiAS) has suggested shareholders of ITC Ltd to vote against the proposed demerger of the hotel business on the grounds that it does not provide complete value unlocking for shareholders."
+    },
+    {
+        "question": "What was the percentage degrowth in ITC's EBIDTA?",
+        "answer": "0.8%",
+        "context": "Prabhudas Lilladher's research report highlights that ITC's EBIDTA degrew by 0.8% due to factors such as higher leaf tobacco prices, pricing and input cost inflation in the paper business, and calibrated price increases in the cigarettes segment."
+    },
+    {
+        "question": "How much did ITC's cigarette volume grow in the reported period?",
+        "answer": "2.1%",
+        "context": "While ITC's EBIDTA experienced a decline, its cigarette volume growth remained positive at 2.1%. However, margin decline of 160bps YoY and 50bps QoQ in the cigarettes segment impacted overall EBIDTA performance."
+    },
+    {
+        "question": "What was the impact of higher leaf tobacco prices on ITC's cigarette business?",
+        "answer": "Margin decline of 160bps YoY and 50bps QoQ",
+        "context": "The rise in leaf tobacco prices led to a margin decline of 160bps YoY and 50bps QoQ in ITC's cigarette business. This contributed to the overall degrowth in EBIDTA."
+    },
+    {
+        "question": "How did pricing and input cost inflation affect ITC's paper business?",
+        "answer": "Contributed to margin decline",
+        "context": "ITC's paper business faced challenges due to pricing and input cost inflation, which impacted margins. The extent of the margin decline is not specified in the provided information."
+    },
+    {
+        "question": "What was the EBIT degrowth for ITC's FMCG segment, excluding PLI gains in 4Q23?",
+        "answer": "15%",
+        "context": "ITC's FMCG EBIDTA margins stood at 11.6%, while its EBIT degrowth, excluding PLI gains in 4Q23, was 15%. This suggests that the FMCG segment faced some headwinds during the reported period."
+    },
+    {
+        "question": "What is ITC's estimated EPS CAGR over FY24-26?",
+        "answer": "7.3%",
+        "context": "Despite the challenges faced in certain segments, Prabhudas Lilladher estimates ITC's EPS CAGR over FY24-26 to be 7.3%. This indicates that the company is expected to maintain a steady growth trajectory."
+    },
+    {
+        "question": "What is the current ROE and ROCE of ITC?",
+        "answer": "ROE: 31.1%, ROCE: 41.2%",
+        "context": "ITC's current ROE stands at 31.1%, while its ROCE is 41.2%. These metrics indicate the company's strong financial position and its ability to generate returns for shareholders."
+    },
+    {
+        "question": "What is the assigned SOTP-based target price for ITC?",
+        "answer": "Rs 491",
+        "context": "Prabhudas Lilladher has assigned a SOTP-based target price of Rs 491 for ITC, which implies a potential upside from the current market price. This target price is based on the company's fundamentals and future growth prospects."
+    },
+    {
+        "question": "What were ITC's Net Sales in March 2024, and how did they compare to the previous year?",
+        "answer": "ITC recorded Net Sales of Rs 19446.49 crore in March 2024, reflecting a significant 10.27% increase compared to Rs. 17634.89 crore in March 2023.",
+        "context": "The provided financial data highlights ITC's strong revenue growth, with Net Sales surging by over 10% in March 2024 compared to the same period in the previous year. This positive trend suggests robust demand for ITC's products or services."
+    },
+    {
+        "question": "How did ITC's Quarterly Net Profit perform in March 2024?",
+        "answer": "ITC witnessed a slight dip in its Quarterly Net Profit, reaching Rs. 5120.55 crore in March 2024, down 1.06% from Rs. 5175.48 crore in March 2023.",
+        "context": "Despite the increase in Net Sales, ITC experienced a marginal decline in Quarterly Net Profit in March 2024. This minor decrease could be attributed to various factors such as increased expenses or fluctuations in operational costs.  "
+    },
+    {
+        "question": "What was the EBITDA for ITC in March 2024, and how did it change year-on-year?",
+        "answer": "ITC's EBITDA reached Rs. 7310.05 crore in March 2024, marking a 1.06% rise from Rs. 7233.65 crore in March 2023.",
+        "context": "ITC's EBITDA performance indicates a positive trend with a slight year-on-year increase. This growth suggests improved operational efficiency and profitability for the company during the period."
+    },
+    {
+        "question": "What was the EPS for ITC in March 2024, and how did it compare to the previous year?",
+        "answer": "ITC's EPS slightly decreased to Rs. 4.10 in March 2024 from Rs. 4.17 in March 2023.",
+        "context": "The provided data shows a minor decrease in ITC's EPS. This marginal reduction in earnings per share could be influenced by several factors, including changes in net income or the number of outstanding shares."
+    },
+    {
+        "question": "What was the closing price of ITC shares on May 27, 2024, and how have they performed in the stock market recently?",
+        "answer": "ITC shares closed at Rs. 431.50 on the National Stock Exchange (NSE) on May 27, 2024. The stock has generated returns of 0.86% over the past six months and 3.92% over the previous twelve months.",
+        "context": "On May 27, 2024, ITC's shares closed at Rs. 431.50 on the NSE. The stock has shown moderate positive returns in both the short and medium term, with returns of 0.86% and 3.92% over the last six and twelve months respectively. This indicates a relatively stable performance in the stock market."
+    },
+    {
+        "question": "What was the net sales of ITC in March 2024?",
+        "answer": "Rs. 17752.87 crore",
+        "context": "Net Sales at Rs 17752.87 crore in March 2024 up 8.26  from Rs. 16397.98 crore in March 2023."
+    },
+    {
+        "question": "What was the percentage increase in net sales of ITC from March 2023 to March 2024?",
+        "answer": "8.26%",
+        "context": "Net Sales at Rs 17752.87 crore in March 2024 up 8.26  from Rs. 16397.98 crore in March 2023."
+    },
+    {
+        "question": "What was the quarterly net profit of ITC in March 2024?",
+        "answer": "Rs. 5020.20 crore",
+        "context": "Quarterly Net Profit at Rs. 5020.20 crore in March 2024 down 1.31  from Rs. 5086.86 crore in March 2023."
+    },
+    {
+        "question": "What was the percentage decrease in quarterly net profit of ITC from March 2023 to March 2024?",
+        "answer": "1.31%",
+        "context": "Quarterly Net Profit at Rs. 5020.20 crore in March 2024 down 1.31  from Rs. 5086.86 crore in March 2023."
+    },
+    {
+        "question": "What was the EBITDA of ITC in March 2024?",
+        "answer": "Rs 6961.23 crore",
+        "context": "EBITDA stands at Rs. 6961.23 crore in March 2024 up 0.08  from Rs. 6955.70 crore in March 2023."
+    },
+    {
+        "question": "What was the percentage increase in EBITDA of ITC from March 2023 to March 2024?",
+        "answer": "0.08%",
+        "context": "EBITDA stands at Rs. 6961.23 crore in March 2024 up 0.08  from Rs. 6955.70 crore in March 2023."
+    },
+    {
+        "question": "What was the EPS of ITC in March 2024?",
+        "answer": "Rs 4.02",
+        "context": "ITC EPS has decreased to Rs. 4.02 in March 2024 from Rs. 4.10 in March 2023."
+    },
+    {
+        "question": "What was the percentage decrease in EPS of ITC from March 2023 to March 2024?",
+        "answer": "1.95%",
+        "context": "ITC EPS has decreased to Rs. 4.02 in March 2024 from Rs. 4.10 in March 2023."
+    },
+    {
+        "question": "According to a poll of six brokerages, what was ITC's consolidated net profit estimate for Q4?",
+        "answer": "Rs 5114 crore",
+        "context": "A poll of six brokerages pegged ITC s consolidated net profit at Rs 5114 crore up 0.5 percent."
+    },
+    {
+        "question": "What was the percentage change in ITC's revenue for the March quarter compared to the corresponding quarter in the previous fiscal?",
+        "answer": "1.40 percent",
+        "context": "Revenue came in at Rs 17752.87 crore rising 1.40 percent from the corresponding quarter in the preceding fiscal."
+    },
+    {
+        "question": "What is Prabhudas Lilladher's target price for ITC?",
+        "answer": "Rs 491",
+        "context": "Prabhudas Lilladher expects  4 percent cigarette volume growth in FY25 26 in a steady state while FMCG will continue to expand margins by  80100 bps annually.The brokerage increased its target price on the player to Rs 491 from Rs 488 earlier keeping its accumulate rating intact."
+    },
+    {
+        "question": "What is Morgan Stanley's outlook on ITC?",
+        "answer": "Outperform",
+        "context": "Morgan Stanley maintained its outperform call on ITC with a target price of Rs 506 apiece."
+    },
+    {
+        "question": "According to Emkay Global, what is the expected growth in ITC's topline in FY26?",
+        "answer": "10 percent",
+        "context": "Emkay Global sees a growth of 10 percent in topline in FY26."
+    },
+    {
+        "question": "What was the key factor that led to ITC's earnings miss, according to Jefferies?",
+        "answer": "Acute pressure in the agri and paperboard segment",
+        "context": "The cigarette business  earnings and volume growth surprised Jefferies as the positive surprise led to the segment s EBIT coming ahead of expectations. The acute pressure in the agri and paperboard segment caused an overall earnings miss per Jefferies."
+    },
+    {
+        "question": "What important announcement is ITC awaiting in the upcoming budget?",
+        "answer": "Any announcements related to taxation",
+        "context": "A key factor to look out for will be the upcoming budget that will be closely watched for any announcements related to taxation."
+    },
+    {
+        "question": "How have ITC shares performed over the past year in comparison to the benchmark Nifty 50 index?",
+        "answer": "ITC shares have traded flat over the past year rising a mere 1.6 percent as against a 24 percent jump in the benchmark Nifty 50 index.",
+        "context": "ITC shares have traded flat over the past year rising a mere 1.6 percent as against a 24 percent jump in the benchmark Nifty 50 index."
+    },
+    {
+        "question": "When will ITC convene shareholder meeting to approve the demerger of its hotel business?",
+        "answer": "June 6, 2024",
+        "context": "The National Company Law Tribunal (NCLT) has directed ITC to convene a meeting of shareholders on June 6, 2024 to consider and approve the proposed demerger of its hotel business."
+    },
+    {
+        "question": "What is the expected timeline for listing of the new entity post demerger of ITC's hotel business?",
+        "answer": "About 15 months",
+        "context": "The board of ITC had on August 14 last year approved the demerger of the hotels business with an indicative timeline of listing of the new entity in about 15 months."
+    },
+    {
+        "question": "What will be the shareholding pattern of ITC and ITC Hotels after demerger?",
+        "answer": "ITC shareholders to hold about 60% direct stake in ITC Hotels and the remaining 40% stake to continue with ITC",
+        "context": "ITC shareholders are to hold about 60 percent direct stake in ITC Hotels (proportionate to their stake in ITC) and the remaining 40 percent stake to continue with ITC."
+    },
+    {
+        "question": "What is the dividend declared by ITC for the financial year ending March 31, 2024?",
+        "answer": "Rs 13.75 per ordinary share",
+        "context": "The company recommended a final dividend of Rs 7.50 per ordinary share for the financial year ending March 31, 2024. Combined with the interim dividend of Rs 6.25 per share declared on January 29, 2024 the total dividend for the year will be Rs 13.75 per ordinary share."
+    },
+    {
+        "question": "What was ITC's standalone net profit for the March quarter?",
+        "answer": "Rs 5020.2 crore",
+        "context": "The FMCG giant reported a standalone net profit of Rs 5020.2 crore for the March quarter down 1.31 percent from the yearago quarter hit by flattish cigarette volumes and lower FMCG margins."
+    },
+    {
+        "question": "Did ITC's cigarette volumes show growth in the March quarter?",
+        "answer": "No",
+        "context": "The FMCG giant reported a standalone net profit of Rs 5020.2 crore for the March quarter down 1.31 percent from the yearago quarter hit by flattish cigarette volumes and lower FMCG margins."
+    },
+    {
+        "question": "What was the revenue reported by ITC in the March quarter?",
+        "answer": "Rs 17752.87 crore",
+        "context": "Revenue came in at Rs 17752.87crore rising 1.40 percent the tobacco and FMCG major said in a regulatory filing on May 23."
+    },
+    {
+        "question": "What was the percentage change in ITC's shares on May 23?",
+        "answer": "0.34%",
+        "context": "Shares of ITC on May 23 were trading 0.34 percent higher at Rs 441.25 apiece on BSE during late trading session."
+    },
+    {
+        "question": "What was the movement of Nifty 50 during the week ended April 26?",
+        "answer": "Nifty 50 showed rangebound behavior, struggling to break free from its consolidation pattern and eventually closing with modest gains of approximately 1.23 percent.",
+        "context": "During the week ended April 26 the market particularly the Nifty 50 showed rangebound behaviour despite an initial gapup opening on Monday. Throughout the week it struggled to break free from this consolidation pattern eventually closing with modest gains of approximately 1.23 percent."
+    },
+    {
+        "question": "What is the technical standpoint of Nifty?",
+        "answer": "Nifty is trading within a rising channel pattern, suggesting potential bullish momentum if it manages to maintain levels above 22300 in the current week with a likely target range of 22750-22800.",
+        "context": "From a technical standpoint the Nifty is trading within a rising channel pattern suggesting potential bullish momentum if it manages to maintain levels above 22300 in the current week with a likely target range of 2275022800."
+    },
+    {
+        "question": "What is the long-short ratio of foreign institutional investors (FIIs)?",
+        "answer": "The long-short ratio of FIIs stands at 39 percent, indicating limited downside potential.",
+        "context": "Additionally the longshort ratio of foreign institutional investors (FIIs) stands at 39 percent indicating limited downside potential."
+    },
+    {
+        "question": "What are the immediate resistance levels for Nifty?",
+        "answer": "The immediate resistance levels for Nifty are projected at 22700-22800, and a decisive close above this range could trigger renewed buying interest in the index futures.",
+        "context": "Looking forward immediate resistance levels for the Nifty are projected at 2270022800 and a decisive close above this range could trigger renewed buying interest in the index futures."
+    },
+    {
+        "question": "What was the performance of Nifty Bank index during the week?",
+        "answer": "Nifty Bank index experienced a notable uptrend, rallying approximately 2000 points from the low of 46600 levels and ending the week with gains of about 1.32 percent.",
+        "context": "As for the Nifty Bank index it experienced a notable uptrend rallying approximately 2000 points from the low of 46600 levels and ending the week with gains of about 1.32 percent."
+    },
+    {
+        "question": "What is the breakout resistance level for Nifty Bank?",
+        "answer": "The breakout from the cup-and-handle pattern faced significant resistance in the 48600-48700 zone, notably near the previous top recorded on December 28, 2023, at 48636",
+        "context": "However the breakout from the cupandhandle pattern faced significant resistance in the 4860048700 zone notably near the previous top recorded on December 28 2023 at 48636."
+    },
+    {
+        "question": "What is the buy call for Navin Fluorine International?",
+        "answer": "Buy Navin Fluorine International at LTP Rs 3310 with a stop loss at Rs 3095 and a target of Rs 3700, offering a potential return of 12 percent.",
+        "context": "Following its Double Top formation near the Rs 49004800 zone Navin Fluorine has experienced a significant downturn shedding 41 percent in price. However in the last 56 trading sessions it has found support near Rs 3000 mark."
+    },
+    {
+        "question": "What is the buy call for ITC?",
+        "answer": "Buy ITC in the zone of Rs 430-440 with an upside target of Rs 480 and a stoploss near Rs 412 on a daily close basis.",
+        "context": "After reaching a peak near Rs 475 mark on January 4 2024 ITC has experienced a significant decline of approximately 16 percent. However in the subsequent 18 trading sessions ITC has shown stability by avoiding further declines and has instead consolidated within a range of Rs 400416."
+    },
+    {
+        "question": "Why did foreign institutional investors (FIIs) reduce their stake in Hindustan Unilever?",
+        "answer": "FIIs decreased their holdings in Hindustan Unilever to 12.67% in the March quarter, the lowest since March 2020, down from 13.65% in the preceding quarter. This reduction was influenced by concerns that earnings might be negatively impacted by rising raw material prices.",
+        "context": "Foreign investors are showing apprehension towards FMCG companies due to concerns about the impact of rising raw material prices on their profitability.  This apprehension is leading them to lower their investments in these companies. For instance, FIIs reduced their stake in Hindustan Unilever to 12.67% in the March quarter, the lowest since March 2020, down from 13.65% in the preceding quarter.  This move suggests a lack of confidence in the company's ability to maintain its earnings growth trajectory amidst inflationary pressures."
+    },
+    {
+        "question": "What was the impact of rising raw material prices on FII ownership in Varun Beverages?",
+        "answer": "FII ownership in Varun Beverages decreased to 25.78% in the March quarter, a six-week low, from 26.57% in the previous quarter. This decline reflects concerns about the company's ability to manage rising input costs, particularly in the beverage industry.",
+        "context": "The FMCG sector is facing headwinds due to rising raw material prices, leading to reduced investor confidence. This is evident in the decline in FII ownership in several companies, including Varun Beverages. Their ownership in the company reached a six-week low of 25.78% in the March quarter, down from 26.57% in the previous quarter. This indicates growing concern among investors about the impact of rising input costs on Varun Beverages' profitability and growth prospects."
+    },
+    {
+        "question": "Which FMCG companies saw their FII ownership hit a six-week low due to concerns over raw material prices?",
+        "answer": "Both Varun Beverages and Britannia Industries saw their FII ownership drop to a six-week low as investors reacted to the potential impact of rising raw material costs on their earnings.",
+        "context": "The rising cost of raw materials is a significant concern for investors in the FMCG sector, as it directly impacts profitability. This concern is reflected in the declining FII ownership in companies like Varun Beverages and Britannia Industries. Both companies experienced a drop in FII ownership to a six-week low, indicating investors are cautious about their earnings potential in a challenging environment."
+    },
+    {
+        "question": "Since when did Dabur India and Godrej Consumer Products record their lowest FII ownership?",
+        "answer": "Both Dabur India and Godrej Consumer Products experienced their lowest FII ownership since December 2015, indicating a long-term trend influenced by various market factors and company-specific performance.",
+        "context": "The decline in FII ownership in Dabur India and Godrej Consumer Products to their lowest levels since December 2015 suggests a sustained negative sentiment towards these companies. While the recent surge in raw material prices is a contributing factor, other factors such as long-term performance, market dynamics, and investor risk appetite likely play a role in this trend. It reflects a deeper concern about the companies' ability to navigate the current economic landscape and deliver consistent returns."
+    },
+    {
+        "question": "How did Tata Consumer's FII stake change in the recent quarter?",
+        "answer": "Tata Consumer experienced a slight decrease in FII stake, dropping to 25.46% from 25.62% in the previous quarter, indicating a minor adjustment in investor positioning.",
+        "context": "The latest shareholding data reveals a mixed bag for FMCG companies in terms of FII ownership. While some companies experienced significant declines, others saw only minor fluctuations. For instance, Tata Consumer's FII stake dipped slightly to 25.46% from 25.62%.  This minor change suggests that investors are making cautious adjustments to their portfolios based on company-specific factors and overall market sentiment."
+    },
+    {
+        "question": "What was the impact on Colgate Palmolive India's FII stake?",
+        "answer": "Colgate Palmolive India witnessed a marginal decrease in FII stake, declining to 24.51% from 24.62%, reflecting a minor adjustment rather than a significant shift in investor sentiment.",
+        "context": "The recent quarter saw minor fluctuations in FII stake in some FMCG companies, including Colgate Palmolive India. The"
+    },
+    {
+        "question": "What are ITC's plans for international expansion in the hospitality sector?",
+        "answer": "ITC plans to open more hotels in neighboring countries and the Middle East.",
+        "context": "India's diversified entity ITC plans to open more hotels overseas with neighboring countries and the Middle East as primary target markets after opening of its first international property here company Chairman and Managing Director Sanjiv Puri said on Thursday."
+    },
+    {
+        "question": "How many new hotels does ITC Hotels plan to add in India in the next five years?",
+        "answer": "ITC Hotels plans to add 70 new hotels in India in the next five years.",
+        "context": "The company's arm ITC Hotels which had opened 22 new properties in the last 24 months plans to add another 70 hotels in the next five years in India as part of expansion plans in the hospitality sector."
+    },
+    {
+        "question": "What other areas of business is ITC looking to expand overseas?",
+        "answer": "ITC is also looking to expand the presence of FMCG and other verticals in new overseas markets.",
+        "context": "Besides the hotels business the company will look for opportunities to expand the presence of FMCG and other verticals in new overseas markets as well."
+    },
+    {
+        "question": "Why is ITC prioritizing proximal markets for its hospitality expansion?",
+        "answer": "ITC believes it has strong credentials in hospitality that can be leveraged in proximal markets and that the focus is currently on the Indian domestic market.",
+        "context": "Very clearly at the moment the focus is on proximal markets be it for hospitality be it for FMCG   Puri said here at a press conference after the opening of the 352room luxury property ITC Ratnadipa here."
+    },
+    {
+        "question": "What is ITC's investment plan for its overall expansion?",
+        "answer": "ITC plans to spend between Rs 700 crore to Rs 1000 crore per year on renovation and new properties.",
+        "context": "On investments planned for the overall expansion he did not share a specific number but said  between renovation and new properties will spend somewhere between Rs 700 crore to Rs 1000 crore a year ."
+    },
+    {
+        "question": "When is ITC Hotels expected to go public?",
+        "answer": "ITC Hotels is expected to go public before the second half of this year or the end of this year.",
+        "context": "On the progress of the demerger of ITC Hotels and its planned public listing Puri said it is happening in line with the indicated timelines and is expected  before the second half of this year or the end of this year ."
+    },
+    {
+        "question": "How much did ITC invest in its new property in Sri Lanka?",
+        "answer": "ITC invested about USD 500 million in its new property in Sri Lanka.",
+        "context": "At its new property here the company had invested about USD 500 million."
+    },
+    {
+        "question": "What is the name of ITC's new property in Sri Lanka?",
+        "answer": "ITC's new property in Sri Lanka is called ITC Ratnadipa.",
+        "context": "It was inaugurated on Thursday by Sri Lankan President Ranil Wickremesinghe. The ITC Ratnadipa or  Island of Gems  has 352 guest rooms suites and service apartments each with private balconies with waterfront views."
+    },
+    {
+        "question": "What was the share price of ITC Ltd on April 19, 2023, at 9:31 am?",
+        "answer": "421.50 INR",
+        "context": "At 9:31 am ITC was quoting Rs 421.50 up Rs 2.55 or 0.61 percent on the BSE."
+    },
+    {
+        "question": "Which company did ITC Infotech announce the acquisition of on April 19, 2023?",
+        "answer": "Blazeclan Technologies Private Limited",
+        "context": "ITC Infotech India Limited a wholly owned subsidiary of ITC has entered into a share purchase agreement for acquisition of 100 percent of the share capital of Blazeclan Technologies Private Limited for Rs 485 crore according to an exchange filing."
+    },
+    {
+        "question": "What percentage of Blazeclan Technologies Private Limited's share capital did ITC Infotech acquire?",
+        "answer": "100%",
+        "context": "ITC Infotech India Limited a wholly owned subsidiary of ITC has entered into a share purchase agreement for acquisition of 100 percent of the share capital of Blazeclan Technologies Private Limited for Rs 485 crore according to an exchange filing."
+    },
+    {
+        "question": "What is Blazeclan Technologies Private Limited known for?",
+        "answer": "Providing cloud transformation solutions to customers globally.",
+        "context": "Blazeclan is an AWS Premier Partner Snowflake Elite Partner and a leader in providing Cloud transformation solutions to customers globally."
+    },
+    {
+        "question": "What is the expected time frame for the completion of the acquisition?",
+        "answer": "Six to eight weeks",
+        "context": "The proposed acquisition will be completed in six to eight weeks subject to completion of the customary closing conditions."
+    },
+    {
+        "question": "What is the expected benefit of the acquisition for ITC Infotech?",
+        "answer": "Augmenting its capabilities to service customers in a multicloud and hybrid cloud environment.",
+        "context": "This acquisition is expected to augment ITC Infotech s capabilities to service its customers in a multicloud and hybrid cloud environment with focus on the partner ecosystem to accelerate future growth."
+    },
+    {
+        "question": "What was the 52-week high share price of ITC Ltd?",
+        "answer": "499.60 INR",
+        "context": "The share touched a 52week high of Rs 499.60 and a 52week low of Rs 396 on 24 July 2023 and 19 April 2023 respectively."
+    },
+    {
+        "question": "What was the 52-week low share price of ITC Ltd?",
+        "answer": "396 INR",
+        "context": "The share touched a 52week high of Rs 499.60 and a 52week low of Rs 396 on 24 July 2023 and 19 April 2023 respectively."
+    },
+    {
+        "question": "Which mutual fund bought the most shares in ITC in March?",
+        "answer": "ICICI Prudential Mutual Fund",
+        "context": "ICICI Prudential Mutual Fund picked up Rs 5822crore shares in ITC in March accounting for over two-thirds of the total MF buying in the Indian tobacco and FMCG conglomerate of Rs 8560 crore for the month."
+    },
+    {
+        "question": "How many shares did ICICI Prudential buy in ITC in March?",
+        "answer": "13.85 crore shares",
+        "context": "ICICI Prudential bought around 13.85 crore shares in ITC in block deals valued at Rs 12695 crore."
+    },
+    {
+        "question": "How many mutual funds bought shares in ITC in March?",
+        "answer": "32",
+        "context": "As many as 32 other mutual funds bought around Rs 2991crore shares in ITC in March while five sold some stake."
+    },
+    {
+        "question": "How many mutual funds are now invested in ITC?",
+        "answer": "38",
+        "context": "Some 38 mutual funds are now invested in ITC together holding shares worth Rs 62063 crore or 1.8 percent of the total assets under management (AUM)."
+    },
+    {
+        "question": "Apart from ICICI Prudential, which other mutual funds bought shares worth over Rs 400 crore in ITC?",
+        "answer": "Nippon UTI and DSP MF",
+        "context": "Apart from ICICI Prudential Nippon UTI and DSP MF each bought shares worth over Rs 400 crore in ITC while Kotak Mahindra and Axis MF bought around Rs 350 crore each."
+    },
+    {
+        "question": "Which mutual fund led the selling in ITC in March?",
+        "answer": "Bajaj Finance",
+        "context": "Bajaj Finance led sellers  pack withdrawing Rs 1778 crore. State Bank of India pulled out Rs 1626 crore Bharti Airtel Rs 1458 crore and ICICI Bank Rs 1130 crore."
+    },
+    {
+        "question": "Apart from ITC, which other stocks were top picks for mutual funds in March?",
+        "answer": "Tata Consultancy Services Ltd, HDFC Bank, Reliance Industries, Hindustan Unilever, and Interglobe Aviation",
+        "context": "Apart from ITC top picks for mutual funds in March included Tata Consultancy Services Ltd where they invested Rs 5905 crore HDFC Bank at Rs 4604 crore Reliance Industries at Rs 2896 crore Hindustan Unilever at Rs 1753 crore and Interglobe Aviation at Rs 1752 crore."
+    },
+    {
+        "question": "What was the value of ITC shares sold by BAT in March?",
+        "answer": "Rs 17500 crore",
+        "context": "On March 13 British firm BAT which makes Dunhill and Lucky Strike cigarettes sold 43.68 crore shares in the Indian conglomerate for Rs 17500 crore bringing down its stake in ITC to 25.5 percent from 29 percent."
+    },
+    {
+        "question": "What is the amount of buyback program started by British American Tobacco Plc?",
+        "answer": "British American Tobacco Plc. started a 1.6 billion (2 billion) buyback program.",
+        "context": "British American Tobacco Plc. started a 1.6 billion (2 billion) buyback program after selling part of its stake in India's ITC Ltd."
+    },
+    {
+        "question": "What is the net proceeds of the ITC stake sale?",
+        "answer": "The net proceeds of the ITC stake sale totaled 1.57 billion.",
+        "context": "The maker of Lucky Strike cigarettes, Vuse vapes, and Velo nicotine pouches said Monday that net proceeds of the ITC stake sale totaled 1.57 billion and that it will buy back as much as 1.6 billion of its own shares this year and next."
+    },
+    {
+        "question": "How many shares will be purchased by British American Tobacco Plc. in 2024?",
+        "answer": "British American Tobacco Plc. will purchase 700 million of its shares in 2024.",
+        "context": "The London-listed company said it will purchase 700 million of its shares in 2024 and 900 million by the end of 2025."
+    },
+    {
+        "question": "What percentage stake does British American Tobacco Plc. still own in ITC?",
+        "answer": "British American Tobacco Plc. still owns a 25% stake in ITC.",
+        "context": "It still owns a 25% stake in ITC, the Indian conglomerate that's the country's top cigarette maker and also runs a number of other businesses including food products and packaging."
+    },
+    {
+        "question": "Why has British American Tobacco Plc. been under pressure?",
+        "answer": "British American Tobacco Plc. has been under pressure to return more cash to shareholders.",
+        "context": "BAT has been under pressure to return more cash to shareholders."
+    },
+    {
+        "question": "How much writedown did British American Tobacco Plc. take on the value of its US cigarette brands?",
+        "answer": "British American Tobacco Plc. took a writedown of more than 27 billion on the value of its US cigarette brands.",
+        "context": "It recently took a writedown of more than 27 billion on the value of its US cigarette brands as more smokers give up the habit with many switching to alternatives like vapes, nicotine pouches, and heated tobacco sticks."
+    },
+    {
+        "question": "What did an activist shareholder call for British American Tobacco Plc. to do?",
+        "answer": "An activist shareholder called for British American Tobacco Plc. to exit its London listing.",
+        "context": "After calls from an activist shareholder to exit its London listing, the company has ruled out a move to a US listing as it would create a lot of distraction internally, Chief Executive Officer Tadeu Marroco said in an interview with the Financial Times over the weekend."
+    },
+    {
+        "question": "Why did British American Tobacco Plc. rule out a move to a US listing?",
+        "answer": "British American Tobacco Plc. ruled out a move to a US listing because it would create a lot of distraction internally.",
+        "context": "After calls from an activist shareholder to exit its London listing, the company has ruled out a move to a US listing as it would create a lot of distraction internally, Chief Executive Officer Tadeu Marroco said in an interview with the Financial Times over the weekend."
+    },
+    {
+        "question": "What were the major uncertainties hovering around ITC stock?",
+        "answer": "The major uncertainties were about BAT reducing their stake in the company below 25%.",
+        "context": "Major uncertainties hovering around the stock are over as BAT has sold 3.5% stake in the company. BAT is unlikely to reduce its stake below 25%."
+    },
+    {
+        "question": "What is the outlook for ITC stock?",
+        "answer": "Sharekhan reiterates its Buy rating on ITC with an unchanged price target of Rs. 515.",
+        "context": "Outlook: We reiterate our Buy on ITC with an unchanged PT of Rs. 515. Post the recent correction in the stock price, valuation at 22x-20x its FY2025E-FY2026E EPS looks attractive with favourable risk-reward."
+    },
+    {
+        "question": "What are the key business fundamentals of ITC?",
+        "answer": "ITC's key business fundamentals include steady growth in the core cigarette business and non-cigarette FMCG business with consistent improvement in EBITDA margins, as well as an efficient capital allocation plan and strong dividend payout.",
+        "context": "Business fundamentals of ITC are intact with steady growth in the core cigarette business and non-cigarette FMCG business witnessing consistent improvement in EBITDA margins. Efficient capital allocation plan and strong dividend payout make it a preferred pick in the largecap FMCG space with attractive valuations."
+    },
+    {
+        "question": "What is the valuation of ITC stock?",
+        "answer": "ITC stock is currently trading at 22x-20x its FY2025E-FY2026E EPS.",
+        "context": "Post the recent correction in the stock price, valuation at 22x-20x its FY2025E-FY2026E EPS looks attractive with favourable risk-reward."
+    },
+    {
+        "question": "What is the dividend payout of ITC?",
+        "answer": "ITC has a strong dividend payout.",
+        "context": "Efficient capital allocation plan and strong dividend payout make it a preferred pick in the largecap FMCG space with attractive valuations."
+    },
+    {
+        "question": "What is the current market capitalization of ITC?",
+        "answer": "This information is not provided in the given context.",
+        "context": ""
+    },
+    {
+        "question": "What is the debt-to-equity ratio of ITC?",
+        "answer": "This information is not provided in the given context.",
+        "context": ""
+    },
+    {
+        "question": "What is the return on equity of ITC?",
+        "answer": "This information is not provided in the given context.",
+        "context": ""
+    },
+    {
+        "question": "What are the support and resistance levels for the Nifty 50 as per experts?",
+        "answer": "Experts suggest a support level for the Nifty 50 at 21,850-21,900, below which the index could see further decline. On the upside, resistance is anticipated at 22,200-22,300, a decisive close above which could propel the index higher.",
+        "context": "The market experienced a shift in sentiment, transitioning from a five-week green streak to a decline of over 2 percent, closing in negative territory. This shift has introduced volatility, with a negative bias expected in subsequent trading sessions.  Analysts have identified key support and resistance levels for the Nifty 50, a crucial barometer of the Indian stock market.  Support is projected around 21,850-21,900, a level closely watched by investors as a potential floor for the index. Should this level be breached, further selling pressure could drive the Nifty 50 lower. Conversely, resistance is anticipated around 22,200-22,300.  A decisive close above this range could signal renewed bullish momentum, potentially pushing the index to record highs."
+    },
+    {
+        "question": "What is the technical outlook for the Nifty 50 based on Rajesh Bhosale's analysis?",
+        "answer": "Rajesh Bhosale, a technical analyst at Angel One, highlights the formation of a bearish candlestick pattern resembling an Evening Star on the Nifty 50's weekly chart. He points out multiple bottoms on the hourly chart coinciding with the 50EMA around the 21,850-21,900 zone, signifying critical support. A break below this could trigger further selling, potentially leading the index towards the previous swing low of 21,500, which aligns with the 89EMA.",
+        "context": "Rajesh Bhosale, a technical analyst at Angel One, provides insights into the technical outlook for the Nifty 50. Examining the weekly chart, Bhosale observes the formation of a long bearish candlestick pattern resembling an Evening Star, indicating potential weakness. Zooming into the hourly chart, he identifies multiple bottoms forming within the range of 21,850 to 21,900.  Crucially, this support zone coincides with the 50-day exponential moving average (50EMA), further emphasizing its significance.  Bhosale warns that a decline below this critical support level could trigger another round of substantial selling pressure, potentially pushing the Nifty 50 towards its previous swing low of 21,500.  This level holds additional weight as it aligns with the 89EMA, adding to the confluence of technical indicators suggesting potential support."
+    },
+    {
+        "question": "What is Jigar Patel's view on the market and what does he say about ITC stock?",
+        "answer": "Jigar Patel, Senior Manager of Equity Research at Anand Rathi, acknowledges the market uncertainty but expects it to dissipate by the end of the month, allowing the market to resume its upward trajectory. Regarding ITC, he highlights the stock's 16% decline from its peak and subsequent consolidation within the Rs 400-416 range. He points out a bullish AB=CD pattern formation within this zone, coinciding with the 0.382% retracement level of the January-July 2023 price swing. Based on this, Patel suggests a buy zone of Rs 415-425, targeting Rs 475, with a stop-loss at Rs 390.",
+        "context": "Jigar Patel, Senior Manager of Equity Research at Anand Rathi, provides his perspective on the current market dynamics and shares his technical analysis of ITC stock.  Patel acknowledges the prevailing market uncertainty but maintains a cautiously optimistic outlook.  He anticipates that this uncertainty will likely dissipate by the month's end, paving the way for the market to resume its primary upward trend.  Turning his attention to ITC, Patel observes that the stock has experienced a significant decline of 16% from its peak of Rs 475 on January 4, 2024. However, he notes that ITC has shown resilience by consolidating within a defined range of Rs 400-416 over the past 18 trading sessions.  From a technical standpoint, Patel identifies a bullish AB=CD pattern forming within this consolidation zone. Notably, this zone also aligns with the 0.382% retracement level of the broader price swing observed between January 2023 and July 2023, adding weight to"
+    }
+]

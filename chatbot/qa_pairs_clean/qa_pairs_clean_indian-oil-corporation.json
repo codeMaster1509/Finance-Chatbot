@@ -1,0 +1,645 @@
+[
+    {
+        "question": "What were the Net Sales of IOC in September 2023 and how did it compare to the same period last year?",
+        "answer": "IOC's Net Sales in September 2023 were Rs. 179245.67 crore, reflecting a decrease of 14.14% compared to Rs. 208753.93 crore in September 2022.",
+        "context": "This information highlights a significant year-on-year decline in IOC's top-line performance. A deeper analysis into the factors contributing to this drop in net sales is essential. Potential reasons could include changes in global oil prices, refining margins, competition, or shifts in demand. Understanding these factors is crucial for assessing IOC's current market position and its future growth prospects."
+    },
+    {
+        "question": "How did IOC's Quarterly Net Profit change in September 2023 compared to the same quarter in the previous year?",
+        "answer": "IOC's Quarterly Net Profit in September 2023 reached Rs. 13114.30 crore, exhibiting a substantial increase of 1422.61% compared to Rs. 991.55 crore in September 2022.",
+        "context": "This dramatic rise in profitability indicates a positive development for IOC. The significant percentage increase suggests that the company has likely implemented effective cost control measures, benefited from favorable market conditions, or both.  A detailed examination of the factors driving this profit surge is necessary to evaluate the sustainability of this growth."
+    },
+    {
+        "question": "What was the EBITDA of IOC in September 2023 and how does it compare to the same period last year?",
+        "answer": "IOC reported an EBITDA of Rs. 23834.87 crore in September 2023, marking a substantial increase of 486.44% compared to Rs. 4064.31 crore in September 2022.",
+        "context": "This substantial growth in EBITDA further reinforces the positive trend in IOC's financial performance.  The increase suggests improvements in the company's operational efficiency and profitability. A detailed analysis of the factors contributing to this EBITDA growth, such as changes in revenue, cost of goods sold, and operating expenses, is crucial for a comprehensive understanding."
+    },
+    {
+        "question": "What is the status of IOC's EPS in September 2023 compared to September 2022?",
+        "answer": "IOC's EPS experienced a significant rise, reaching Rs. 9.53 in September 2023 compared to Rs. 0.72 in September 2022.",
+        "context": "The increase in EPS indicates that IOC is generating more earnings per share, a positive sign for investors. This growth could be attributed to the substantial increase in net profit.  However, it's essential to consider other factors, such as share buybacks or dilutions, that might also influence EPS figures.  Analyzing these factors is crucial for accurately evaluating IOC's profitability from a shareholder's perspective."
+    },
+    {
+        "question": "What was the closing price of IOC shares on November 01, 2023, and what returns did it offer over the past 6 and 12 months?",
+        "answer": "IOC shares closed at 92.45 on the NSE on November 01, 2023.  The stock has generated returns of 12.54% over the last six months and 35.46% over the last twelve months.",
+        "context": "This information provides insights into IOC's recent stock performance.  The positive returns over both the short and long term suggest that investors have reacted favorably to the company's financial results or broader market trends. However, past performance is not necessarily indicative of future results. A comprehensive analysis considering factors like market volatility, industry trends, and company-specific news is crucial for making informed investment decisions."
+    },
+    {
+        "question": "Did IOC's Net Sales increase or decrease in September 2023 compared to the previous year?",
+        "answer": "IOC's Net Sales decreased by 14.14% in September 2023 compared to the same period in the previous year.",
+        "context": "While IOC exhibited strong profitability in September 2023, this decline in net sales warrants attention. It suggests potential challenges in revenue generation, which could stem from factors such as reduced demand, pricing pressures, or increased competition.  A thorough investigation into the reasons behind this decline is essential for understanding the company's overall financial health."
+    },
+    {
+        "question": "What was the percentage change in IOC's Quarterly Net Profit in September 2023 compared to September 2022?",
+        "answer": "IOC's Quarterly Net Profit surged by an impressive 1"
+    },
+    {
+        "question": "What is the immediate resistance level for Nifty50?",
+        "answer": "19100",
+        "context": "The immediate resistance on the upside is identified at 19100 and a breakout above this level may trigger shortcovering moves toward the 19250/19300 range."
+    },
+    {
+        "question": "What is the lower-end support level for Nifty50?",
+        "answer": "18940",
+        "context": "Conversely if the lowerend support at 18940 is breached on a closing basis it could intensify selling pressure potentially pushing the index to new lows."
+    },
+    {
+        "question": "What candlestick pattern did the Bank Nifty index form?",
+        "answer": "Doji candlestick pattern",
+        "context": "The Bank Nifty index formed a Doji candlestick pattern suggesting a state of indecision at the current levels with a battle between bulls and bears."
+    },
+    {
+        "question": "What is the immediate resistance level for Bank Nifty?",
+        "answer": "43000",
+        "context": "Immediate resistance is observed at 43000 where significant open interest is concentrated on the Call side. A breach above this level could trigger shortcovering moves towards 43500."
+    },
+    {
+        "question": "What is the lower-end support level for Bank Nifty?",
+        "answer": "42400",
+        "context": "Conversely the lowerend support is positioned at 42400 and if it is breached on a closing basis it may escalate the selling pressure."
+    },
+    {
+        "question": "What is the target price for Karur Vysya Bank according to the buy call?",
+        "answer": "Rs 154/158",
+        "context": "Karur Vysya Bank is currently displaying some promising signals as the stock appears to be on the verge of a breakout. It recently rebounded from a robust support level with substantial trading volume hinting at strong buying interest.\nFurthermore the stock is trading above its crucial moving averages reinforcing a positive trend. The relative strength index (RSI) at 65 suggests good momentum.\nFor shortterm traders it may be an opportune time to consider a long position at the current market price with a prudent stoploss at Rs 142 and aiming for shortterm targets of Rs 154/158 on the upside."
+    },
+    {
+        "question": "What is the target price for Birlasoft according to the buy call?",
+        "answer": "Rs 600/615",
+        "context": "Birlasoft recently displayed some promising signals on its daily chart. Firstly it broke out of a consolidation phase suggesting potential upward momentum. Secondly it closed above its crucial moving average signifying a positive trend.\nAdditionally the relative strength index (RSI) for the stock currently stands at 71 indicating strong momentum. These indicators suggest a favourable outlook.\nOne can go long on the stock on a pull back in the price range of Rs 568/575 with a stoploss of Rs 550 for the short term targets of Rs 600/615."
+    },
+    {
+        "question": "What is the target price for Indian Oil Corporation according to the buy call?",
+        "answer": "Rs 99/103",
+        "context": "IOC (Indian Oil Corporation) stock has demonstrated a sharp recovery supported by volumebased buying at lower levels. The stock has given a breakout from a falling trendline which could significantly boost its momentum.\nThe RSI momentum indicator has also provided a positive crossover confirming a buy signal. In terms of levels there is visible support at Rs 86 which serves as a safety net for the bulls. Additionally the stock presents potential upside targets at Rs 99 and 103 indicating a positive outlook for IOC."
+    },
+    {
+        "question": "What was the quarterly net profit of IOC in September 2023?",
+        "answer": "IOC's quarterly net profit in September 2023 was Rs. 12967.32 crore.",
+        "context": "Quarterly Net Profit at Rs. 12967.32 crore in September 2023 up 4861.27  from Rs. 272.35 crore in September 2022."
+    },
+    {
+        "question": "What was the percentage change in IOC's net sales from September 2022 to September 2023?",
+        "answer": "IOC's net sales decreased by 13.37% from September 2022 to September 2023.",
+        "context": "Net Sales at Rs 179739.82 crore in September 2023 down 13.37  from Rs. 207485.30 crore in September 2022."
+    },
+    {
+        "question": "What was the EBITDA of IOC in September 2023?",
+        "answer": "IOC's EBITDA in September 2023 was Rs. 22295.50 crore.",
+        "context": "EBITDA stands at Rs. 22295.50 crore in September 2023 up 436.15  from Rs. 4158.45 crore in September 2022."
+    },
+    {
+        "question": "What was the percentage change in IOC's EBITDA from September 2022 to September 2023?",
+        "answer": "IOC's EBITDA increased by 436.15% from September 2022 to September 2023.",
+        "context": "EBITDA stands at Rs. 22295.50 crore in September 2023 up 436.15  from Rs. 4158.45 crore in September 2022."
+    },
+    {
+        "question": "What was the EPS of IOC in September 2023?",
+        "answer": "IOC's EPS in September 2023 was Rs. 9.42.",
+        "context": "IOC EPS has increased to Rs. 9.42 in September 2023 from Rs. 0.19 in September 2022."
+    },
+    {
+        "question": "What was the percentage change in IOC's EPS from September 2022 to September 2023?",
+        "answer": "IOC's EPS increased by 4816.32% from September 2022 to September 2023.",
+        "context": "IOC EPS has increased to Rs. 9.42 in September 2023 from Rs. 0.19 in September 2022."
+    },
+    {
+        "question": "What was the closing price of IOC shares on October 30, 2023?",
+        "answer": "IOC shares closed at 88.25 on October 30, 2023 (NSE).",
+        "context": "IOC shares closed at 88.25 on October 30 2023 (NSE) and has given 7.43  returns over the last 6 months and 29.30  over the last 12 months."
+    },
+    {
+        "question": "What was the return on IOC shares over the last 6 months?",
+        "answer": "IOC shares have given a 7.43% return over the last 6 months.",
+        "context": "IOC shares closed at 88.25 on October 30 2023 (NSE) and has given 7.43  returns over the last 6 months and 29.30  over the last 12 months."
+    },
+    {
+        "question": "What was the return on IOC shares over the last 12 months?",
+        "answer": "IOC shares have given a 29.30% return over the last 12 months.",
+        "context": "IOC shares closed at 88.25 on October 30 2023 (NSE) and has given 7.43  returns over the last 6 months and 29.30  over the last 12 months."
+    },
+    {
+        "question": "What is the RBI governor's prediction for India's GDP growth in the second quarter, and what factors contribute to this positive outlook?",
+        "answer": "RBI governor Shaktikanta Das expressed optimism about India's economic growth, suggesting that the GDP growth in the second quarter (July-September) is likely to surpass expectations. The RBI has projected a growth rate of 6.5 percent for this period. This positive outlook is attributed to robust early indicators and sustained momentum in economic activities, painting a picture of resilience in the Indian economy.",
+        "context": "The Reserve Bank of India (RBI) Governor, Shaktikanta Das, has indicated that India's economic growth in the second quarter (July-September) of the fiscal year is likely to exceed projections. The central bank has forecasted a GDP growth rate of 6.5 percent for this three-month period.  The anticipated upside surprise is attributed to strong early indicators and the continued momentum observed in economic activities. This suggests that the Indian economy is performing well and exhibiting resilience. Despite global challenges posed by evolving geopolitical situations, which have implications for financial markets and overall growth worldwide, India appears to be well-positioned to navigate these risks effectively."
+    },
+    {
+        "question": "How did Larsen & Toubro perform in the September quarter, and what does their order book suggest about the infrastructure sector in India?",
+        "answer": "Larsen & Toubro (L&T), the construction and engineering conglomerate, showcased robust financial performance in the September quarter, reporting a 45 percent surge in consolidated net profit, reaching Rs 3223 crore. Their order book saw a substantial increase of 72 percent year-on-year, reaching Rs 89153 crore. This significant growth in L&T's order book signals strong momentum in India's infrastructure sector.",
+        "context": "Larsen & Toubro (L&T), a prominent player in the construction and engineering domain, delivered a strong performance in the September quarter. The company announced a 45 percent year-on-year jump in its consolidated net profit, which amounted to Rs 3223 crore. Furthermore, L&T's operating revenue for the three-month period witnessed a 19 percent rise from the previous year, reaching Rs 51024 crore. A noteworthy highlight of L&T's performance is the impressive growth in its order book. The company secured orders worth Rs 89153 crore during the quarter, marking a substantial 72 percent increase compared to the same period last year. This robust expansion in L&T's order book serves as a positive indicator of the strong momentum within India's infrastructure sector."
+    },
+    {
+        "question": "What led to Bharti Airtel's 38% profit decline in the second quarter, and how did the company perform operationally?",
+        "answer": "Bharti Airtel's 38% year-on-year decline in net profit to Rs 1341 crore in the second quarter was primarily due to a one-time tax and interest provision of Rs 1619 crore. This provision resulted from a Supreme Court ruling that barred telecom companies from treating license fees as an expense. Despite this one-time impact, Bharti Airtel exhibited robust operational performance. The company's revenue grew by 7.3% year-on-year, reaching Rs 37044 crore. Notably,  Airtel added a record-breaking 1 million postpaid customers during the quarter, signaling a healthy operational trajectory.",
+        "context": "Bharti Airtel experienced a 38 percent year-on-year decline in its net profit for the fiscal second quarter, reporting Rs 1341 crore compared to the same period last year. This significant drop can be primarily attributed to a one-time tax and interest provision amounting to Rs 1619 crore. This provision was necessitated by a ruling from the Supreme Court, which stated that telecom companies could no longer classify license fees as an operational expense. However, it's crucial to look beyond this one-time impact and consider Bharti Airtel's operational performance, which paints a more positive picture. The telecom giant recorded a 7.3 percent year-on-year increase in revenue, reaching Rs 37044 crore. Furthermore,  Airtel achieved a remarkable milestone by adding a record 1 million postpaid customers during the quarter. This achievement underscores the company's robust operational performance and its ability to attract and retain customers."
+    },
+    {
+        "question": "How did Indian Oil Corporation's profit change in the September quarter, and what factors contributed to this performance?",
+        "answer": "Indian Oil Corporation (IOC) staged a remarkable"
+    },
+    {
+        "question": "What was Indian Oil Corporation's net profit for the second quarter of fiscal 2024?",
+        "answer": "Indian Oil Corporation reported a net profit of Rs 12967 crore for the second quarter of fiscal 2024.",
+        "context": "Indian Oil Corporation on October 31 reported its fiscal second quarter net profit at Rs 12967 crore swinging into green from a net loss of Rs 272 crore a year ago.India s largest PSU oil refining and marketing company s Q2 FY24 net profit was driven by lower crude oil input costs and inventory gains the results showed."
+    },
+    {
+        "question": "How did Indian Oil Corporation's net profit compare to analysts' estimates?",
+        "answer": "Indian Oil Corporation's net profit beat analysts' estimate of Rs 9640 crore.",
+        "context": "The company s net profit beat analysts  estimate of Rs 9640 crore."
+    },
+    {
+        "question": "What was the percentage change in Indian Oil Corporation's revenue from operations for the second quarter of fiscal 2024?",
+        "answer": "Indian Oil Corporation's revenue from operations for the second quarter of fiscal 2024 fell 11 percent to Rs 2.o3 lakh crore from Rs 2.31 lakh crore in the same quarter previous year.",
+        "context": "Indian Oil s revenue from operations for the JulySeptember quarter fell 11 percent to Rs 2.o3 lakh crore from Rs 2.31 lakh crore in the same quarter previous year according to an exchange filing."
+    },
+    {
+        "question": "What was Indian Oil Corporation's average gross refining margin (GRM) for the first half of fiscal 2023?",
+        "answer": "Indian Oil Corporation's average gross refining margin (GRM) for the first half of fiscal 2023 was 13.12 per barrel.",
+        "context": "The company s average gross refining margin (GRM) for the fiscal first half AprilSeptember 2023 was  13.12 per barrel. This compared with  25.49 per barrel in the yearago period."
+    },
+    {
+        "question": "How did Indian Oil Corporation's share price react to the announcement of its financial results?",
+        "answer": "Indian Oil Corporation's shares gained 0.4 percent to Rs 88.20 during the afternoon trade after the results were announced.",
+        "context": "IOCL shares gained o.4 percent to Rs 88.20 during the afternoon trade after the results were announced."
+    },
+    {
+        "question": "What factors contributed to Indian Oil Corporation's improved financial performance in the second quarter of fiscal 2024?",
+        "answer": "Indian Oil Corporation's improved financial performance in the second quarter of fiscal 2024 was driven by lower crude oil input costs and inventory gains.",
+        "context": "India s largest PSU oil refining and marketing company s Q2 FY24 net profit was driven by lower crude oil input costs and inventory gains the results showed."
+    },
+    {
+        "question": "What are some of the challenges facing Indian Oil Corporation in the future?",
+        "answer": "Some of the challenges facing Indian Oil Corporation in the future include higher crude oil costs, dwindling Russian crude discounts, and potential sanctions on Venezuelan crude imports.",
+        "context": "However concerns of higher crude costs are looming once again. Earlier this month analysts said oil refining companies are expected to report a decline in marketing margins in the second quarter of FY24 due to high crude oil prices. Additionally dwindling Russian crude discounts also pose a risk."
+    },
+    {
+        "question": "What is one of the potential opportunities for Indian Oil Corporation in the future?",
+        "answer": "One of the potential opportunities for Indian Oil Corporation in the future is to resume purchases of crude oil from Venezuela.",
+        "context": "India may resume purchases of crude oil from Venezuela. In October the US eased oil trade and financial sanctions on Venezuela. India was a regular buyer of Venezuelan crude oil grades prior to the imposition of US sanctions according to an S P Global report from October 24."
+    },
+    {
+        "question": "What is the amount Indian Oil Corporation plans to invest in a joint venture with NTPC, and what is the purpose of this venture?",
+        "answer": "Indian Oil Corporation (IOC) is investing Rs 1660.15 crore as equity in a 50-50 joint venture with NTPC. The purpose of this venture is to establish renewable power plants to meet the round-the-clock power needs of IOC's refineries.",
+        "context": "Indian Oil Corporation, the nation's largest oil company, is partnering with energy giant NTPC Ltd. to form a joint venture focused on renewable energy. IOC will invest Rs 1660.15 crore, representing a 50% equity stake in the newly formed IndianOil NTPC Green Energy Pvt Ltd. This strategic alliance aims to develop renewable energy projects capable of providing a consistent power supply to IOC's refineries. This move aligns with the broader industry trend of transitioning towards sustainable and eco-friendly energy sources."
+    },
+    {
+        "question": "What is the target renewable energy capacity Indian Oil Corporation aims to achieve by 2025 and 2030?",
+        "answer": "Indian Oil Corporation (IOC) aims to build a renewable energy portfolio of 3 GW by 2025 and expand it further to 35 GW by 2030.",
+        "context": "Indian Oil Corporation (IOC) has set ambitious targets for expanding its renewable energy portfolio. By 2025, the company aims to achieve a capacity of 3 GW, demonstrating its commitment to sustainable energy solutions. Looking further ahead, IOC plans to significantly scale up its renewable energy capacity to 35 GW by 2030. These targets highlight IOC's dedication to playing a leading role in India's clean energy transition."
+    },
+    {
+        "question": "What is the name of the joint venture formed by Indian Oil Corporation and NTPC, and what type of projects will it undertake?",
+        "answer": "The joint venture formed by Indian Oil Corporation and NTPC is named 'IndianOil NTPC Green Energy Pvt Ltd.'  This entity will develop renewable energy-based power projects, including solar, wind, and energy storage solutions, to meet the round-the-clock power requirements of IOC's refineries.",
+        "context": "Indian Oil Corporation (IOC) and NTPC have formalized their partnership in renewable energy by establishing a joint venture company called 'IndianOil NTPC Green Energy Pvt Ltd.' This collaboration signifies a joint commitment to developing sustainable energy solutions. The joint venture will focus on a range of renewable energy projects, encompassing solar, wind, and energy storage technologies. The primary objective is to ensure a continuous and reliable power supply for IOC's refinery operations, showcasing their dedication to sustainable practices in the energy sector."
+    },
+    {
+        "question": "How is Indian Oil Corporation incorporating solar energy into its existing infrastructure?",
+        "answer": "Indian Oil Corporation (IOC) is installing solar panels at its petrol pumps, aiming to solarise 20,705 locations with a combined installed capacity of 121 MW.",
+        "context": "In a bid to enhance its green footprint, Indian Oil Corporation (IOC) is integrating solar energy into its existing infrastructure. The company has undertaken an initiative to solarise its petrol pumps, aiming to equip 20,705 stations with solar panels. This ambitious project will result in a total installed capacity of 121 MW, showcasing IOC's commitment to harnessing renewable energy sources and reducing its reliance on traditional power grids."
+    },
+    {
+        "question": "What is the planned capacity of the green hydrogen project Indian Oil Corporation is developing at its Panipat refinery?",
+        "answer": "Indian Oil Corporation (IOC) is developing a green hydrogen project at its Panipat refinery with a planned capacity of 7 kilotonnes per annum.",
+        "context": "As part of its foray into green hydrogen, Indian Oil Corporation (IOC) is developing a significant project at its Panipat refinery. This project aims to establish a production capacity of 7 kilotonnes per annum of green hydrogen. This initiative highlights IOC's commitment to exploring and investing in emerging clean energy technologies, positioning itself as a key player in India's transition towards a hydrogen-based economy."
+    },
+    {
+        "question": "What is Indian Oil Corporation's target for biofuel production by 2050?",
+        "answer": "Indian Oil Corporation (IOC) aims to increase its biofuel production capacity to 7 million tonnes from agricultural and municipal waste and 9 million tonnes of biogas by 2050.",
+        "context": "Indian Oil Corporation (IOC) has outlined ambitious targets for biofuel production"
+    },
+    {
+        "question": "What are some of the key projects that Indian Oil Corporation (IOC) plans to invest in over the next decade?",
+        "answer": "IOC plans to invest Rs 4 lakh crore in expanding its refining and petrochemical business, energy transition projects, and setting up a giant petrochemical complex at Paradip in Odisha.",
+        "context": "India's top fuel retailer Indian Oil Corporation will invest over Rs 4 lakh crore in this decade to expand oil refining and petrochemical business as well as in energy transition projects as part of a plan to become a  360degree energy company  its chairman Shrikant Madhav Vaidya said on Friday.IndianOil will invest Rs 1 lakh crore in expanding capacity to refine and turn crude oil into fuel and a staggering Rs 2.4 lakh crore in projects that will help it achieve netzero carbon emissions from its operations. Another Rs 60000 crore is planned to be invested in setting up a giant petrochemical complex at Paradip in Odisha."
+    },
+    {
+        "question": "What is IOC's target for reducing carbon emissions?",
+        "answer": "IOC has set 2046 as the target date for net-zero carbon emissions.",
+        "context": "The firm which controls over 40 per cent of India\u2019s fuel market and is the largest oil refiner has set 2046 as the target date for netzero carbon emissions."
+    },
+    {
+        "question": "How does IOC plan to achieve net-zero carbon emissions?",
+        "answer": "IOC's investments in producing green hydrogen, renewable energy capacity addition, biofuels, and carbon offsetting will help it achieve net-zero carbon emissions.",
+        "context": "These investments will be in producing green hydrogen to replace one currently used in refineries that come from fossil fuels renewable energy capacity addition biofuels and carbon offsetting."
+    },
+    {
+        "question": "What is IOC's strategy for meeting the rising energy demand in India?",
+        "answer": "IOC plans to increase its share in India's energy pie from the current 9% to around 12.5% by 2050.",
+        "context": "To fuel the rising energy demand of an ascendant India we are committed to increasing our share in India\u2019s energy pie from the current 9 per cent to around 1 8th or 12.5 per cent by 2050. For this IOC is leveraging varied energy pathways that will establish it  as a 360degree energy company  he said."
+    },
+    {
+        "question": "What is IOC's investment plan for expanding its refining capacity?",
+        "answer": "IOC plans to invest Rs 1 lakh crore in expanding its refining capacity by 33% to reach almost 107 million tonnes per annum soon.",
+        "context": " We are investing over Rs 1 lakh crore for expanding your company\u2019s refining capacity by about 33 per cent to reach almost 107 million tonnes per annum soon  he said."
+    },
+    {
+        "question": "What are some of the new products and services that IOC is offering?",
+        "answer": "IOC is offering branded fuels such as 100 Octane petrol XP100, 95 Octane petrol XP95, and green diesel XtraGreen. It has also launched a unique QR code-based  Track N Trace  pilot initiative in LPG.",
+        "context": "Also the firm is expanding its offering of branded fuels.  Our 100 Octane petrol XP100 is now being offered at over 200 retail outlets 95 Octane petrol XP95 is available at over 10300 outlets and the green diesel XtraGreen is being retailed at more than 5600 outlets  he said.In LPG it has launched a unique QR codebased  Track N Trace  pilot initiative."
+    },
+    {
+        "question": "What is IOC's plan for sustainable growth?",
+        "answer": "IOC plans to convert over 100 million PET bottles annually into uniforms for its on-ground teams, non-combat uniforms for the armed forces, and other stakeholders.",
+        "context": "To support sustainable growth the firm also plans to convert over 100 million PET bottles annually into uniforms for its onground teams noncombat uniforms for the armed forces and other stakeholders."
+    },
+    {
+        "question": "How is IOC collaborating with other companies to support its energy transition plans?",
+        "answer": "IOC is collaborating with Italy's Snam to explore the possibility of converting existing natural gas pipelines for hydrogen transportation.",
+        "context": "The company is collaborating with Italy\u2019s Snam to explore the possibility of converting the existing natural gas pipelines for hydrogen transportation."
+    },
+    {
+        "question": "What was Indian Oil Corporation's (IOCL) Q1FY24 EBITDA and PAT?",
+        "answer": "IOCL's Q1FY24 EBITDA was INR 221.6 billion and PAT was INR 137.5 billion, both exceeding analyst estimates.",
+        "context": "Indian Oil Corporation s (IOCL) Q1FY24 EBITDA and PAT of INR 221.6bn and INR 137.5bn beat our estimates of INR 175bn and INR 103bn respectively. The numbers were also well ahead of Q1FY23 EBITDA of INR 13.6bn and net loss of INR 19.9bn."
+    },
+    {
+        "question": "How did IOCL's Q1FY24 GRM compare to previous quarters and years?",
+        "answer": "IOCL's Q1FY24 reported GRM of USD 8.3 bbl was lower by USD 6.9 bbl QoQ and USD 23.5 bbl YoY, but in line with expectations.",
+        "context": "Reported GRM of USD 8.3 bbl in Q1FY24 was down by USD 6.9 bbl QoQ and USD 23.5 bbl YoY (inline) while refining throughput was at 18.8mt (down 1  YoY inline)."
+    },
+    {
+        "question": "What drove IOCL's outperformance in Q1FY24?",
+        "answer": "Strong marketing performance, with higher retail margins (blended margins at INR 8.8 ltr for Q1FY24), was the key driver, despite a 1% decline in marketing volumes.",
+        "context": "Marketing strength drove the outperformance with sharply higher retail margins (blended margins at INR 8.8 ltr for Q1FY24) the key driver even as marketing volumes of 24.4mt were down 1  YoY."
+    },
+    {
+        "question": "How has Indian Oil Corporation's EPS been revised for FY24E and FY25E?",
+        "answer": "ICICI Securities has increased IOCL's FY24E and FY25E EPS by 4.4% and 7.0%, respectively, to reflect stronger margins.",
+        "context": "We increase FY24E   FY25E EPS by 4.4    7.0  to factorin the stronger margins."
+    },
+    {
+        "question": "What is ICICI Securities' target price for Indian Oil Corporation based on EV EBITDA?",
+        "answer": "ICICI Securities has raised its EV EBITDA-based target price for IOCL to INR 120 per share.",
+        "context": "Our EV EBITDA based target price thus stands increased to INR 120 sh."
+    },
+    {
+        "question": "Are Indian Oil Corporation's valuations considered attractive?",
+        "answer": "Yes, valuations at 5.0x FY25E P/E, 5.0x EV EBITDA, and 0.8x P/BV are considered attractive.",
+        "context": "Valuations at 5.0x FY25E P E 5.0x EV EBITDA and 0.8x P BV remain attractive."
+    },
+    {
+        "question": "Is the dividend yield also a positive factor for Indian Oil Corporation's stock?",
+        "answer": "Yes, the estimated dividend yield of 7.8% (average for FY24E and FY25E) is an additional value driver for the stock.",
+        "context": "We believe dividend yield of  78  (average estimated for FY24E FY25E) is an added value driver for the stock."
+    },
+    {
+        "question": "What is the potential upside based on ICICI Securities' revised valuation?",
+        "answer": "The revised FY25E EV EBITDA-based valuation of INR 120 per share implies a potential upside of 26%.",
+        "context": "Our revised FY25E EV EBITDAbased valuation of INR 120 sh implies 26  upside."
+    },
+    {
+        "question": "What was the net sales of the company in June 2022?",
+        "answer": "Rs. 223414.39 crore",
+        "context": "Net Sales at Rs 198550.77 crore in June 2023 down 11.13  from Rs. 223414.39 crore in June 2022."
+    },
+    {
+        "question": "What was the net profit of the company in June 2022?",
+        "answer": "Rs. 279.38 crore",
+        "context": "Quarterly Net Profit at Rs. 14436.96 crore in June 2023 up 5267.5  from Rs. 279.38 crore in June 2022."
+    },
+    {
+        "question": "What was the EBITDA of the company in June 2022?",
+        "answer": "Rs. 6041.48 crore",
+        "context": "EBITDA stands at Rs. 24330.95 crore in June 2023 up 302.73  from Rs. 6041.48 crore in June 2022."
+    },
+    {
+        "question": "What was the EPS of the company in June 2022?",
+        "answer": "Rs. 0.20",
+        "context": "IOC EPS has increased to Rs. 10.48 in June 2023 from Rs. 0.20 in June 2022."
+    },
+    {
+        "question": "What was the closing price of the company's shares on July 27, 2023?",
+        "answer": "98.60",
+        "context": "IOC shares closed at 98.60 on July 27 2023 (NSE)."
+    },
+    {
+        "question": "What was the return on the company's shares over the last 6 months?",
+        "answer": "20.61%",
+        "context": "IOC shares closed at 98.60 on July 27 2023 (NSE) and has given 20.61  returns over the last 6 months and 36.85  over the last 12 months."
+    },
+    {
+        "question": "What was the return on the company's shares over the last 12 months?",
+        "answer": "36.85%",
+        "context": "IOC shares closed at 98.60 on July 27 2023 (NSE) and has given 20.61  returns over the last 6 months and 36.85  over the last 12 months."
+    },
+    {
+        "question": "What was IOC's net sales in June 2023?",
+        "answer": "IOC's net sales in June 2023 were Rs 197526.57 crore.",
+        "context": "Net Sales at Rs 197526.57 crore in June 2023 down 11.92  from Rs. 224252.63 crore in June 2022."
+    },
+    {
+        "question": "How much was IOC's quarterly net profit in June 2023?",
+        "answer": "IOC's quarterly net profit in June 2023 was Rs. 13750.44 crore.",
+        "context": "Quarterly Net Profit at Rs. 13750.44 crore in June 2023 up 790.1  from Rs. 1992.53 crore in June 2022."
+    },
+    {
+        "question": "What was IOC's EBITDA in June 2023?",
+        "answer": "IOC's EBITDA in June 2023 was Rs. 22852.37 crore.",
+        "context": "EBITDA stands at Rs. 22852.37 crore in June 2023 up 1018.8  from Rs. 2042.58 crore in June 2022."
+    },
+    {
+        "question": "What is IOC's EPS in June 2023?",
+        "answer": "IOC's EPS in June 2023 is Rs. 9.98.",
+        "context": "IOC EPS has increased to Rs. 9.98 in June 2023 from Rs. 1.45 in June 2022."
+    },
+    {
+        "question": "What was the closing price of IOC shares on July 27, 2023?",
+        "answer": "The closing price of IOC shares on July 27, 2023 was 98.60.",
+        "context": "IOC shares closed at 98.60 on July 27 2023 (NSE) and has given 20.61  returns over the last 6 months and 36.85  over the last 12 months."
+    },
+    {
+        "question": "What is the percentage change in IOC's net sales from June 2022 to June 2023?",
+        "answer": "IOC's net sales decreased by 11.92% from June 2022 to June 2023.",
+        "context": "Net Sales at Rs 197526.57 crore in June 2023 down 11.92  from Rs. 224252.63 crore in June 2022."
+    },
+    {
+        "question": "What is the percentage change in IOC's quarterly net profit from June 2022 to June 2023?",
+        "answer": "IOC's quarterly net profit increased by 790.1% from June 2022 to June 2023.",
+        "context": "Quarterly Net Profit at Rs. 13750.44 crore in June 2023 up 790.1  from Rs. 1992.53 crore in June 2022."
+    },
+    {
+        "question": "What is the percentage change in IOC's EBITDA from June 2022 to June 2023?",
+        "answer": "IOC's EBITDA increased by 1018.8% from June 2022 to June 2023.",
+        "context": "EBITDA stands at Rs. 22852.37 crore in June 2023 up 1018.8  from Rs. 2042.58 crore in June 2022."
+    },
+    {
+        "question": "What is the name of the company that received the order?",
+        "answer": "Thyssenkrupp Industrial Solution India",
+        "context": "Thyssenkrupp Industrial Solution India a unit of the German engineering major on Wednesday said it bagged a  100million order from Indian Oil Corporation to build a polybutadiene rubber plant at Panipat refinery complex in Haryana."
+    },
+    {
+        "question": "What is the purpose of the new plant being built by Thyssenkrupp Industrial Solution India?",
+        "answer": "To produce polybutadiene rubber",
+        "context": "Polybutadiene rubber is manufactured from the polymerization of butadiene and has applications in manufacturing tyres and additives."
+    },
+    {
+        "question": "What is the capacity of the new plant being built by Thyssenkrupp Industrial Solution India?",
+        "answer": "60 kilo tonne per annum",
+        "context": "Thyssenkrupp Industrial Solutions will execute this project with 60 kilo tonne per annum capacity based on technology from a reputed licensor the company said."
+    },
+    {
+        "question": "What does the EPC scope of the project include?",
+        "answer": "Residual process engineering, detail engineering, project management, procurement, construction, and commissioning of the plant",
+        "context": "The lumpsum EPC (engineering procurement and construction) scope includes residual process engineering detail engineering project management procurement construction   commissioning of the plant Rajesh Kamath chief executive of Thyssenkrupp Industrial Solutions  chemical plant business said."
+    },
+    {
+        "question": "What other projects has Thyssenkrupp Industrial Solution India executed for IOC?",
+        "answer": "Multiple refineries and petrochemical projects across its refineries",
+        "context": "Thyssenkrupp Industrial Solutions is into petrochemical and refinery fertilizers chloralkali green chemicals cryogenic storages etc. and has executed multiple refineries and petrochemical projects for IOC across its refineries."
+    },
+    {
+        "question": "What other contracts is Thyssenkrupp Industrial Solution India currently executing for IOC?",
+        "answer": "nbutanol project and catalytic dewaxing project on EPC basis for IOC s Gujarat refinery",
+        "context": "At present apart from other contracts being executed on EPCM and PMC models it is also implementing the nbutanol project and catalytic dewaxing project on EPC basis for IOC s Gujarat refinery."
+    },
+    {
+        "question": "How many projects has Thyssenkrupp Industrial Solution India executed in the past four decades?",
+        "answer": "Over 850",
+        "context": "The company has executed over 850 projects in the past four decades on various modalities."
+    },
+    {
+        "question": "What is the nature of the projects that Thyssenkrupp Industrial Solution India has executed in the past?",
+        "answer": "Petrochemical and refinery, fertilizers, chloralkali, green chemicals, and cryogenic storages",
+        "context": "Thyssenkrupp Industrial Solutions is into petrochemical and refinery fertilizers chloralkali green chemicals cryogenic storages etc. and has executed multiple refineries and petrochemical projects for IOC across its refineries."
+    },
+    {
+        "question": "What was Indian Oil Corporation's PAT in Q4FY23?",
+        "answer": "Rs. 10059 crore",
+        "context": "Sharekhan's research report on Indian Oil CorporationQ4FY23 PAT of Rs. 10059 crore (versus just Rs. 448 crore in Q3FY23) was significantly above our estimate due to a sharp beat in GRMs."
+    },
+    {
+        "question": "What contributed to Indian Oil Corporation's strong earnings in Q4FY23?",
+        "answer": "Turnaround in the petchem segment, a forex gain of Rs. 989 crore, and positive auto fuel marketing margin.",
+        "context": "Turnaround in the petchem segment a forex gain of Rs. 989 crore and positive auto fuel marketing margin also contributed to strong earnings."
+    },
+    {
+        "question": "How did the GRM of Indian Oil Corporation compare to HPCL in Q4FY23?",
+        "answer": "Indian Oil Corporation's GRM at 15.3 bbl was higher than HPCL's GRM at 14 bbl.",
+        "context": "GRM at 15.3 bbl was better than that of HPCL at 14 bbl and above our estimate of 11.5 bbl."
+    },
+    {
+        "question": "What were the key factors that led to the increase in throughput volumes for Indian Oil Corporation in Q4FY23?",
+        "answer": "An increase in refining throughput, pipeline throughput, and petchem sales volume.",
+        "context": "Refining throughput pipeline throughput petchem sales volume at 19 mmt 25mmt 0.7mmt was up by 5 6 81 qoq."
+    },
+    {
+        "question": "What is Sharekhan's outlook for Indian Oil Corporation?",
+        "answer": "Buy with a revised PT of Rs. 100.",
+        "context": "We maintain a Buy on IOCL with a revised PT of Rs. 100 on inexpensive valuation of 4.8x 0.8x FY25E EPS BV and FY24E dividend yield of 10."
+    },
+    {
+        "question": "What is the key risk to Indian Oil Corporation's earnings recovery?",
+        "answer": "A spike in crude oil prices.",
+        "context": "However a spike in crude oil prices (from $7475 bbl currently) is a key risk to earnings recovery especially given OMCs inability to hike petrol diesel price given general election expected to be scheduled in May 2024."
+    },
+    {
+        "question": "What is Sharekhan's revised price target for Indian Oil Corporation?",
+        "answer": "Rs. 100",
+        "context": "We maintain a Buy on IOCL with a revised PT of Rs. 100 on inexpensive valuation of 4.8x 0.8x FY25E EPS BV and FY24E dividend yield of 10."
+    },
+    {
+        "question": "What is the dividend yield for Indian Oil Corporation for FY24E?",
+        "answer": "10%",
+        "context": "We maintain a Buy on IOCL with a revised PT of Rs. 100 on inexpensive valuation of 4.8x 0.8x FY25E EPS BV and FY24E dividend yield of 10."
+    },
+    {
+        "question": "What was the net sales of Indian Oil Corporation (IOC) in March 2023?",
+        "answer": "Rs. 203,872.27 crore",
+        "context": "Net Sales at Rs 203872.27 crore in March 2023 up 16.3  from Rs. 175292.02 crore in March 2022."
+    },
+    {
+        "question": "How much was the quarterly net profit of IOC in March 2023?",
+        "answer": "Rs. 10,289.82 crore",
+        "context": "Quarterly Net Profit at Rs. 10289.82 crore in March 2023 up 54.83  from Rs. 6645.72 crore in March 2022."
+    },
+    {
+        "question": "What was the EBITDA of IOC in March 2023?",
+        "answer": "Rs. 18,914.61 crore",
+        "context": "EBITDA stands at Rs. 18914.61 crore in March 2023 up 27.34  from Rs. 14853.33 crore in March 2022."
+    },
+    {
+        "question": "What is the current EPS of IOC in March 2023?",
+        "answer": "Rs. 7.47",
+        "context": "IOC EPS has increased to Rs. 7.47 in March 2023 from Rs. 7.24 in March 2022."
+    },
+    {
+        "question": "What is the current share price of Indian Oil Corporation (IOC) on NSE?",
+        "answer": "Rs. 84.20",
+        "context": "IOC shares closed at 84.20 on May 15 2023 (NSE) and has given 20.98  returns over the last 6 months and 3.44  over the last 12 months."
+    },
+    {
+        "question": "What is the percentage increase in net sales of IOC from March 2022 to March 2023?",
+        "answer": "16.3%",
+        "context": "Net Sales at Rs 203872.27 crore in March 2023 up 16.3  from Rs. 175292.02 crore in March 2022."
+    },
+    {
+        "question": "What is the percentage increase in quarterly net profit of IOC from March 2022 to March 2023?",
+        "answer": "54.83%",
+        "context": "Quarterly Net Profit at Rs. 10289.82 crore in March 2023 up 54.83  from Rs. 6645.72 crore in March 2022."
+    },
+    {
+        "question": "What is the percentage increase in EBITDA of IOC from March 2022 to March 2023?",
+        "answer": "27.34%",
+        "context": "EBITDA stands at Rs. 18914.61 crore in March 2023 up 27.34  from Rs. 14853.33 crore in March 2022."
+    },
+    {
+        "question": "What is Indian Oil Corporation planning to invest in the West Bengal region?",
+        "answer": "Indian Oil Corporation (IOC) plans to invest Rs 250 crore in the West Bengal region during the current fiscal year to enhance infrastructure for promoting green auto fuels.",
+        "context": "Indian Oil Corporation on Friday said it will pump in Rs 250 crore in the West Bengal region in the current fiscal to ramp up infrastructure to push green auto fuels."
+    },
+    {
+        "question": "How much ethanol blending has IOC achieved in West Bengal?",
+        "answer": "IOC has achieved 7.5 percent ethanol blending in West Bengal, which is lower than the national average of 10 percent.",
+        "context": "The stateowned refiner and oil retailer said it has currently achieved ethanol blending of 7.5 per cent in the state against the national average of 10 per cent with Bengal lagging behind in ethanol supply."
+    },
+    {
+        "question": "What is IOC's timeline for achieving 20 percent ethanol blending in West Bengal?",
+        "answer": "IOC aims to achieve 20 percent ethanol blending in West Bengal by 2025.",
+        "context": "However supply chain issues will be sorted in due course and we will be able to augment blending and attain 20 per cent by 2025 IOC ED and State Head (West Bengal) LKS Chauhan said."
+    },
+    {
+        "question": "What is IOC's environmental goal?",
+        "answer": "IOC aims to achieve net zero operational emissions by 2046.",
+        "context": "The company aims at net zero operational emission by 2046."
+    },
+    {
+        "question": "Is IOC collaborating with other entities to promote green fuels?",
+        "answer": "Yes, IOC is engaging with institutional and bulk customers, such as state transport agencies, to encourage the adoption of green fuels.",
+        "context": "IOC is in dialogue with institutional and bulk customers like state transport agencies for more adoption of green fuels he said."
+    },
+    {
+        "question": "How many pumps in West Bengal currently offer green auto fuels?",
+        "answer": "275 pumps in West Bengal currently offer green auto fuels.",
+        "context": "At present green auto fuels are available at 275 pumps but by 2024 we will increase it to 1000 pumps out of 1482 retail outlets in the state Chauhan said."
+    },
+    {
+        "question": "What is IOC's target for the number of pumps offering green auto fuels in West Bengal by 2024?",
+        "answer": "IOC aims to increase the number of pumps offering green auto fuels in West Bengal to 1000 by 2024.",
+        "context": "At present green auto fuels are available at 275 pumps but by 2024 we will increase it to 1000 pumps out of 1482 retail outlets in the state Chauhan said."
+    },
+    {
+        "question": "What is the total number of retail outlets IOC has in West Bengal?",
+        "answer": "IOC has 1482 retail outlets in West Bengal.",
+        "context": "At present green auto fuels are available at 275 pumps but by 2024 we will increase it to 1000 pumps out of 1482 retail outlets in the state Chauhan said."
+    },
+    {
+        "question": "What is the estimated earnings for Indian Oil Corporation for FY23, FY24 and FY25?",
+        "answer": "The estimated earnings for the Indian Oil Corporation for FY23, FY24, and FY25 have been lowered by 8.2%, 2.7% and 3.1% respectively.",
+        "context": "We lower our FY23 24 25E earnings estimate by 82.5   2.7   3.1  to factor in weak petchem performance (9MFY23 EBIT loss Rs4.7bn) lower Chennai petro results and higher cost."
+    },
+    {
+        "question": "What was the reported standalone EBITDA and PAT of Indian Oil Corporation for Q3?",
+        "answer": "The reported standalone EBITDA and PAT of Indian Oil Corporation for Q3 were Rs 35.9 billion and Rs 4.5 billion respectively.",
+        "context": "Indian Oil Corporation (IOCL) reported better than expected Q3 results with standalone EBITDA of Rs35.9bn ( 83 QoQ  PLe Rs27.5bn) and PAT of Rs4.5bn (PLe  Rs7.5bn) due to lower marketing losses."
+    },
+    {
+        "question": "What led to the improvement in the profitability of the marketing segment of Indian Oil Corporation?",
+        "answer": "The sharp correction in international diesel prices, falling from $170 per barrel to $115 per barrel, contributed to the improvement in the profitability of the marketing segment of Indian Oil Corporation.",
+        "context": "Sharp correction in international diesel prices   115 from recent peak of USD170 bbl improved marketing segment s profitability."
+    },
+    {
+        "question": "How will the ban on the import of Russian oil products impact Indian Oil Corporation?",
+        "answer": "The ban on the import of Russian oil products from February 2023 is expected to support refining product spreads for Indian Oil Corporation.",
+        "context": "Also ban on import of Russian oil product from Feb23 will support refining product spreads."
+    },
+    {
+        "question": "What is the outlook for Indian Oil Corporation according to the research report?",
+        "answer": "The research report believes that Indian Oil Corporation is well-positioned to benefit from improving marketing and healthy refining profitability.",
+        "context": "OutlookWe believe OMCs are well placed to benefit from improving marketing and healthy refining profitability."
+    },
+    {
+        "question": "What is the revised price target for Indian Oil Corporation set by the research report?",
+        "answer": "The revised price target for Indian Oil Corporation set by the research report is Rs. 125, reduced from Rs. 130.",
+        "context": "Maintain  BUY  at PT of Rs125 (Rs130) based on 7x EV E FY24E."
+    },
+    {
+        "question": "What is the basis for the revised price target for Indian Oil Corporation?",
+        "answer": "The revised price target of Rs. 125 for Indian Oil Corporation is based on a multiple of 7x EV/E for FY24E.",
+        "context": "Maintain  BUY  at PT of Rs125 (Rs130) based on 7x EV E FY24E."
+    },
+    {
+        "question": "What are the factors that could impact the oil prices globally, as mentioned in the report?",
+        "answer": "According to the report, global recessionary pressure and high interest rates are expected to keep oil prices range bound, despite increased demand from China.",
+        "context": "Further global recessionary pressure along with high interest rates will keep oil prices range bound despite increased demand from China."
+    },
+    {
+        "question": "What is the installed refining capacity of Indian Oil Corporation?",
+        "answer": "70 MMT",
+        "context": "Indian Oil Corporation is India's largest refining and marketing company with an installed refining capacity of 70 MMT."
+    },
+    {
+        "question": "How many retail outlets does Indian Oil Corporation operate?",
+        "answer": "34559",
+        "context": "IOC operates 34559 retail outlets as of the end of FY22."
+    },
+    {
+        "question": "What percentage of Indian Oil Corporation's marketing sales come from petrol and diesel?",
+        "answer": "52%",
+        "context": "Petrol and diesel together historically constitute 52% of marketing sales."
+    },
+    {
+        "question": "What rating has ICICI Direct given to Indian Oil Corporation?",
+        "answer": "HOLD",
+        "context": "We maintain our HOLD rating on the stock."
+    },
+    {
+        "question": "What is the target price for Indian Oil Corporation set by ICICI Direct?",
+        "answer": "Rs 90",
+        "context": "We value IOC at Rs 90 i.e. the average of P/E multiple Rs 85/share and P/BV multiple Rs 95/share."
+    },
+    {
+        "question": "What is the P/E multiple of Indian Oil Corporation according to ICICI Direct?",
+        "answer": "Rs 85/share",
+        "context": "We value IOC at Rs 90 i.e. the average of P/E multiple Rs 85/share and P/BV multiple Rs 95/share."
+    },
+    {
+        "question": "What is the P/BV multiple of Indian Oil Corporation according to ICICI Direct?",
+        "answer": "Rs 95/share",
+        "context": "We value IOC at Rs 90 i.e. the average of P/E multiple Rs 85/share and P/BV multiple Rs 95/share."
+    },
+    {
+        "question": "Where can I find the full research report on Indian Oil Corporation by ICICI Direct?",
+        "answer": "Click here",
+        "context": "For all recommendations report click here."
+    },
+    {
+        "question": "What was the net sales growth rate of IOC in December 2022 compared to December 2021?",
+        "answer": "40.5%",
+        "context": "Net Sales at Rs 232303.20 crore in December 2022 up 40.5  from Rs. 165339.04 crore in December 2021."
+    },
+    {
+        "question": "What was the net profit of IOC in December 2021?",
+        "answer": "Rs. 6143.08 crore",
+        "context": "Quarterly Net Profit at Rs. 773.23 crore in December 2022 down 87.41  from Rs. 6143.08 crore in December 2021."
+    },
+    {
+        "question": "What was the EBITDA of IOC in December 2022?",
+        "answer": "Rs. 5877.51 crore",
+        "context": "EBITDA stands at Rs. 5877.51 crore in December 2022 down 50.68  from Rs. 11916.81 crore in December 2021."
+    },
+    {
+        "question": "What was the EPS of IOC in December 2022?",
+        "answer": "Rs. 0.56",
+        "context": "IOC EPS has decreased to Rs. 0.56 in December 2022 from Rs. 6.69 in December 2021."
+    },
+    {
+        "question": "What is the current share price of IOC?",
+        "answer": "81.75",
+        "context": "IOC shares closed at 81.75 on January 31 2023 (NSE)."
+    },
+    {
+        "question": "What was the return on IOC shares over the last 6 months?",
+        "answer": "14.98%",
+        "context": "IOC shares closed at 81.75 on January 31 2023 (NSE) and has given 14.98  returns over the last 6 months and 2.06  over the last 12 months."
+    },
+    {
+        "question": "What was the return on IOC shares over the last 12 months?",
+        "answer": "2.06%",
+        "context": "IOC shares closed at 81.75 on January 31 2023 (NSE) and has given 14.98  returns over the last 6 months and 2.06  over the last 12 months."
+    },
+    {
+        "question": "What is the name of the company under consideration?",
+        "answer": "IOC",
+        "context": "Net Sales at Rs 232303.20 crore in December 2022 up 40.5  from Rs. 165339.04 crore in December 2021.Quarterly Net Profit at Rs. 773.23 crore in December 2022 down 87.41  from Rs. 6143.08 crore in December 2021.EBITDA stands at Rs. 5877.51 crore in December 2022 down 50.68  from Rs. 11916.81 crore in December 2021.IOC EPS has decreased to Rs. 0.56 in December 2022 from Rs. 6.69 in December 2021.IOC shares closed at 81.75 on January 31 2023 (NSE) and has given 14.98  returns over the last 6 months and 2.06  over the last 12 months."
+    }
+]

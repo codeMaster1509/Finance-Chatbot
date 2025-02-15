@@ -1,0 +1,371 @@
+[
+    {
+        "question": "What was Wipro's Net Sales in June 2024?",
+        "answer": "Wipro's Net Sales was Rs 16481.30 crore in June 2024.",
+        "context": "Net Sales at Rs 16481.30 crore in June 2024 down 4.19  from Rs. 17202.80 crore in June 2023."
+    },
+    {
+        "question": "How much was Wipro's Net Profit in June 2023?",
+        "answer": "Wipro's Net Profit was Rs. 2587.80 crore in June 2023.",
+        "context": "Quarterly Net Profit at Rs. 2374.60 crore in June 2024 down 8.24  from Rs. 2587.80 crore in June 2023."
+    },
+    {
+        "question": "What was Wipro's EBITDA in June 2024?",
+        "answer": "Wipro's EBITDA was Rs. 3858.10 crore in June 2024.",
+        "context": "EBITDA stands at Rs. 3858.10 crore in June 2024 down 3.61  from Rs. 4002.70 crore in June 2023."
+    },
+    {
+        "question": "What was Wipro's EPS in June 2023?",
+        "answer": "Wipro's EPS was Rs. 4.72 in June 2023.",
+        "context": "Wipro EPS has decreased to Rs. 4.54 in June 2024 from Rs. 4.72 in June 2023."
+    },
+    {
+        "question": "What was Wipro's share price on July 19 2024?",
+        "answer": "Wipro's shares closed at 557.20 on July 19 2024 (NSE).",
+        "context": "Wipro shares closed at 557.20 on July 19 2024 (NSE) and has given 14.87  returns over the last 6 months and 33.32  over the last 12 months."
+    },
+    {
+        "question": "What was Wipro's return over the last 6 months on July 19 2024?",
+        "answer": "Wipro's return over the last 6 months on July 19 2024 was 14.87%.",
+        "context": "Wipro shares closed at 557.20 on July 19 2024 (NSE) and has given 14.87  returns over the last 6 months and 33.32  over the last 12 months."
+    },
+    {
+        "question": "What was Wipro's return over the last 12 months on July 19 2024?",
+        "answer": "Wipro's return over the last 12 months on July 19 2024 was 33.32%.",
+        "context": "Wipro shares closed at 557.20 on July 19 2024 (NSE) and has given 14.87  returns over the last 6 months and 33.32  over the last 12 months."
+    },
+    {
+        "question": "What is Wipro's industry?",
+        "answer": "This context does not mention Wipro's industry, so I cannot answer this question from the provided context.",
+        "context": "Net Sales at Rs 16481.30 crore in June 2024 down 4.19  from Rs. 17202.80 crore in June 2023.Quarterly Net Profit at Rs. 2374.60 crore in June 2024 down 8.24  from Rs. 2587.80 crore in June 2023.EBITDA stands at Rs. 3858.10 crore in June 2024 down 3.61  from Rs. 4002.70 crore in June 2023.Wipro EPS has decreased to Rs. 4.54 in June 2024 from Rs. 4.72 in June 2023.Wipro shares closed at 557.20 on July 19 2024 (NSE) and has given 14.87  returns over the last 6 months and 33.32  over the last 12 months."
+    },
+    {
+        "question": "Did Wipro's share price increase after the Q1 FY25 results?",
+        "answer": "No, Wipro shares fell by as much as 8 percent.",
+        "context": "Wipro shares fell as much as 8 percent on July 22 after the company delivered a weak Q1 FY25 performance with a 1 percent quarteronquarter (QoQ) decline in its consolidated revenue."
+    },
+    {
+        "question": "How did Wipro's Q1 FY25 revenue compare to expectations?",
+        "answer": "Wipro's Q1 FY25 revenue fell below expectations.",
+        "context": "Wipro s Q1 FY25 revenue and guidance for Q2 FY25 fell below expectations."
+    },
+    {
+        "question": "What was the reason for the decline in Wipro's Q1 FY25 revenue?",
+        "answer": "The decline in Wipro's Q1 FY25 revenue was primarily due to a 1.1 percent quarter-on-quarter decline in consolidated revenue.",
+        "context": "The company s consolidated revenue declined by 1.1 percent on quarter to Rs 21963.8 crore falling short of   s forecast of Rs 22229 crore."
+    },
+    {
+        "question": "What was Wipro's revenue guidance for Q2 FY25?",
+        "answer": "Wipro's revenue guidance for Q2 FY25 suggests a potential sequential decline of 1 percent or a slight growth of up to 1 percent (in constant currency terms).",
+        "context": "Bengalurubased Wipro also revised its revenue guidance for the Q2 FY25 suggesting a potential sequential decline of 1 percent or a slight growth of up to 1 percent (in constant currency terms)."
+    },
+    {
+        "question": "What is Nuvama's recommendation on Wipro?",
+        "answer": "Nuvama has maintained its  Hold  rating on Wipro.",
+        "context": "Nuvama said that Wipro has a long way to go in order to reach industry average growth. While the brokerage expects Wipro to continue underperforming its peers it also notes that its low valuation and high dividend yield help mitigate downside risk. Nuvama has maintained its  Hold  rating on Wipro."
+    },
+    {
+        "question": "What was Wipro's target price as per Nomura?",
+        "answer": "Nomura had a  Buy  call on Wipro with a target price of Rs 600.",
+        "context": "Nomura had a  Buy  call on Wipro with a target price of Rs 600 and Citi had a  Sell  call with Rs 495 as the target price."
+    },
+    {
+        "question": "What is Citi's recommendation on Wipro?",
+        "answer": "Citi had a  Sell  call on Wipro with Rs 495 as the target price.",
+        "context": "Nomura had a  Buy  call on Wipro with a target price of Rs 600 and Citi had a  Sell  call with Rs 495 as the target price."
+    },
+    {
+        "question": "What was the reason for the upgrade in Nuvama's target price for Wipro?",
+        "answer": "Nuvama increased the target price for Wipro to Rs 530 from Rs 460 as the BFSI segment continued to grow and consumer business also picked up.",
+        "context": "Nuvama said that Wipro has a long way to go in order to reach industry average growth. While the brokerage expects Wipro to continue underperforming its peers it also notes that its low valuation and high dividend yield help mitigate downside risk. Nuvama has maintained its  Hold  rating on Wipro. The brokerage increased the target price for the stock to Rs 530 Rs 460 as the BFSI segment continued to grow and consumer business also picked up."
+    },
+    {
+        "question": "What were the key financial highlights for Reliance Industries in Q1?",
+        "answer": "Reliance Industries reported a profit of Rs 17,448 crore in Q1, down from Rs 18,182 crore in the same quarter last year. However, revenue grew by 11.5% to Rs 257,823 crore. EBITDA rose 2% to Rs 42,748 crore. The company's oil-to-chemicals revenue saw a significant jump of 18.1%.",
+        "context": "Reliance Industries announced their Q1 earnings with a consolidated YoY profit of Rs 17,448 crore compared to Rs 18,182 crore in the previous year. Despite the dip in profit, revenue showed an 11.5% increase, reaching Rs 257,823 crore from Rs 231,132 crore. EBITDA also experienced growth, rising by 2% to Rs 42,748 crore compared to Rs 41,906 crore. The EBITDA margin stood at 16.6% compared to 18.1% in the previous year.  Key contributors to the revenue growth were the oil-to-chemicals segment, which spiked by 18.1% to Rs 157,133 crore, and the oil & gas revenue, which surged by 33.4% to Rs 6179 crore. Jio Platforms, a subsidiary of Reliance Industries, also reported a jump in profit by 11.7% to Rs 5,698 crore and a 12.8% rise in revenue to Rs 34,548 crore. Another subsidiary, Reliance Retail Ventures, posted a 4.6% increase in profit at Rs 2,549 crore and an 8.1% climb in revenue to Rs 75,615 crore."
+    },
+    {
+        "question": "How did HDFC Bank perform in the first quarter?",
+        "answer": "HDFC Bank's standalone Q1 profit fell 2% QoQ to Rs 16,174.8 crore. However, revenue increased by 2.6% to Rs 29,837.1 crore. The bank's provisions fell sharply, and its gross NPA ratio increased slightly.",
+        "context": "HDFC Bank's Q1 standalone results showed a 2% quarter-on-quarter decline in profit, reaching Rs 16,174.8 crore from Rs 16,511.85 crore. Despite this, revenue experienced a 2.6% increase, settling at Rs 29,837.1 crore compared to Rs 29,076.8 crore in the previous quarter. A significant development was the sharp fall in provisions to Rs 2,602 crore from Rs 13,511.6 crore. However, the bank's gross NPA ratio increased to 1.33% from 1.24%, and the net NPA ratio rose to 0.39% from 0.33%."
+    },
+    {
+        "question": "What is the outlook for Wipro's IT services revenue in Q2?",
+        "answer": "Wipro expects its IT services revenue to be in the range of USD 2,600-2,652 million in Q2.",
+        "context": "Wipro's Q1 consolidated results revealed a 0.8% decline in IT services revenue quarter-on-quarter, reaching Rs 21,896.3 crore from Rs 22,079.6 crore. IT services EBIT also decreased by 0.4% to Rs 3,605.7 crore, while the margin saw a slight improvement of 10 basis points to 16.5%. In dollar terms, revenue was down 1.2% to USD 2,625.9 million. Looking ahead to Q2, Wipro projects its IT services revenue to fall between USD 2,600 million and USD 2,652 million."
+    },
+    {
+        "question": "What was the impact of the QIP issue on Vedanta's fundraising efforts?",
+        "answer": "Vedanta successfully raised Rs 8,500 crore through its Qualified Institutions Placement (QIP) issue.",
+        "context": "Vedanta concluded its Qualified Institutions Placement (QIP) issue, successfully raising Rs 8,500 crore. The company sold 19"
+    },
+    {
+        "question": "How has Wipro's performance been in the BFSI vertical?",
+        "answer": "Wipro has seen an uptick in discretionary spending within the Banking Financial Services and Insurance (BFSI) vertical despite a cautious overall demand environment.",
+        "context": "Wipro Ltd said it is seeing an uptick in discretionary spending within the Banking Financial Services and Insurance (BFSI) vertical despite a cautious overall demand environment."
+    },
+    {
+        "question": "What percentage of Wipro's revenue came from the BFSI segment in Q1 FY25?",
+        "answer": "34 percent",
+        "context": "This is in contrast to what the information technology (IT) sector in general and Wipro in particular is facing with overall discretionary spending remaining elusive.The statement is backed by data that shows that the BFSI segment s contribution increased to 34 percent in Q1 FY25 from 33.5 percent in the quarterago period."
+    },
+    {
+        "question": "Which other verticals showed improvement in Q1 FY25?",
+        "answer": "Consumer and Technology",
+        "context": "The BFSI vertical s performance was reflected in the large deal bookings the company booked during the June quarter which stood at  1.2 billion. Nonetheless Wipro s total deal wins fell sequentially to  3.6 billion when compared to  3.8 billion it won in the previous quarter. We recorded another quarter of total large deal bookings over  1 billion with our largest win in the recent years. Our top accounts continued to grow accompanied by a growth in Americas 1 SMU BFSI and Consumer sectors  Wipro s new CEO Srinivas Pallia said."
+    },
+    {
+        "question": "How much were Wipro's large deal bookings in the June quarter?",
+        "answer": "$1.2 billion",
+        "context": "The BFSI vertical s performance was reflected in the large deal bookings the company booked during the June quarter which stood at  1.2 billion. Nonetheless Wipro s total deal wins fell sequentially to  3.6 billion when compared to  3.8 billion it won in the previous quarter."
+    },
+    {
+        "question": "What was Wipro's total deal wins in the previous quarter?",
+        "answer": "$3.8 billion",
+        "context": "Nonetheless Wipro s total deal wins fell sequentially to  3.6 billion when compared to  3.8 billion it won in the previous quarter."
+    },
+    {
+        "question": "What sectors contributed to Wipro's growth in the Americas?",
+        "answer": "BFSI and Consumer",
+        "context": "We recorded another quarter of total large deal bookings over  1 billion with our largest win in the recent years. Our top accounts continued to grow accompanied by a growth in Americas 1 SMU BFSI and Consumer sectors  Wipro s new CEO Srinivas Pallia said."
+    },
+    {
+        "question": "What was the percentage change in Wipro's share price on July 19?",
+        "answer": "2.8 percent lower",
+        "context": "Shares of Wipro ended 2.8 percent lower at Rs 557 on July 19."
+    },
+    {
+        "question": "What is Wipro's overall stock performance in 2024?",
+        "answer": "Over 16 percent higher",
+        "context": "The stock has risen over 16 percent so far in 2024."
+    },
+    {
+        "question": "What happened to the ADRs of Wipro on the NYSE on April 19?",
+        "answer": "The ADRs of Wipro fell over 10 percent on the NYSE on April 19.",
+        "context": "The American depositary receipts (ADRs) of Wipro fell over 10 percent on the NYSE on April 19 after the IT services company missed quarterly revenue expectations due to ongoing weakness in key regions like Europe and APMEA (Asia Pacific India Middle East and Africa)."
+    },
+    {
+        "question": "What was the reason for the decline in Wipro's ADRs?",
+        "answer": "Wipro missed quarterly revenue expectations due to ongoing weakness in key regions like Europe and APMEA.",
+        "context": "The American depositary receipts (ADRs) of Wipro fell over 10 percent on the NYSE on April 19 after the IT services company missed quarterly revenue expectations due to ongoing weakness in key regions like Europe and APMEA (Asia Pacific India Middle East and Africa)."
+    },
+    {
+        "question": "What was Wipro's consolidated revenue for Q1 FY25?",
+        "answer": "Wipro's consolidated revenue for Q1 FY25 was Rs 21963.8 crore.",
+        "context": "The company's consolidated revenue declined by 1.1 percent on quarter to Rs 21963.8 crore falling short of   s forecast of Rs 22229 crore."
+    },
+    {
+        "question": "Which markets did Wipro experience growth in during Q1 FY25?",
+        "answer": "Wipro experienced growth in its Americas 1 market which includes Latin America.",
+        "context": "Wipro experienced growth in its Americas 1 market which includes Latin America. However revenue in the Americas 2 Europe and APMEA markets dropped on both sequential and annual basis."
+    },
+    {
+        "question": "Which verticals saw a decline in revenue for Wipro in Q1 FY25?",
+        "answer": "Health Energy Natural Resources and Utilities Technology Manufacturing and Communications saw a degrowth of  0.76.5 percent.",
+        "context": "Wipro s QoQ revenue decreased across most verticals. Health Energy Natural Resources and Utilities Technology Manufacturing and Communications saw a degrowth of  0.76.5 percent. Meanwhile Banking Financial Services and Insurance and Consumer segment grew 0.3 percent and 1.5 percent respectively."
+    },
+    {
+        "question": "What was Wipro's consolidated net profit for Q1 FY25?",
+        "answer": "Wipro's consolidated net profit for Q1 FY25 was Rs 3003.2 crore.",
+        "context": "The consolidated net profit of Wipro for Q1 FY25 however increased 6 percent QoQ to Rs 3003.2 crore surpassing   s estimate of Rs 2953."
+    },
+    {
+        "question": "What is Wipro's revenue guidance for Q2 FY25?",
+        "answer": "Wipro revised its revenue guidance for the Q2 FY25 suggesting a potential sequential decline of 1 percent or a slight growth of up to 1 percent (in constant currency terms).",
+        "context": "Bengalurubased Wipro also revised its revenue guidance for the Q2 FY25 suggesting a potential sequential decline of 1 percent or a slight growth of up to 1 percent (in constant currency terms)."
+    },
+    {
+        "question": "What did Wipro say about the discretionary spending environment?",
+        "answer": "Up until now most IT companies have maintained that the discretionary spending environment remains subdued.",
+        "context": "Up until now most IT companies have maintained that the discretionary spending environment remains subdued."
+    },
+    {
+        "question": "What was the net profit reported by Wipro for Q1 FY25?",
+        "answer": "Wipro Ltd reported a net profit of Rs 3003 crore for Q1 FY25.",
+        "context": "Wipro Ltd on 19 July reported its Q1 FY25 net profit rose 4.6 percent from a year ago to Rs 3003 crore beating market expectations."
+    },
+    {
+        "question": "How did Wipro's consolidated revenue perform in Q1 FY25?",
+        "answer": "Wipro's consolidated revenue fell 3.8 percent to Rs 21964 crore in Q1 FY25.",
+        "context": "The IT company s AprilJune consolidated revenue fell 3.8 percent to Rs 21964 crore."
+    },
+    {
+        "question": "What was the analysts' estimate for Wipro's net profit in Q1 FY25?",
+        "answer": "Analysts had estimated Wipro's fiscal first quarter net profit to rise to Rs 2953 crore.",
+        "context": "A   poll of brokerage estimates had pegged Wipro s fiscal first quarter net profit to rise to Rs 2953 crore and revenue to fall to Rs 22229 crore."
+    },
+    {
+        "question": "What is Wipro's guidance for sequential revenue growth in Q2 FY25?",
+        "answer": "Wipro has guided sequential revenue growth in the range of 1 percent to 1 percent in constant currency (CC) terms in Q2 FY25.",
+        "context": "The company has guided sequential revenue growth in the range of 1 percent to 1 percent in constant currency (CC) terms."
+    },
+    {
+        "question": "How did Wipro's operating margin perform in Q1 FY25?",
+        "answer": "Wipro expanded its operating margin to 16.5 percent in Q1 FY25, up 42 basis points from the same quarter a year ago.",
+        "context": "CFO Aparna Iyer said the firm expanded operating margin to 16.5 percent in the AprilJune quarter up 42 basis points from the same quarter a year ago."
+    },
+    {
+        "question": "What was Wipro's attrition rate in Q1 FY25?",
+        "answer": "Wipro's attrition rate declined marginally to 14.1 percent sequentially on a last-twelve-month (LTM) basis in Q1 FY25.",
+        "context": "The company s attrition rate declined marginally to 14.1 percent sequentially on a lasttwelvemonth (LTM) basis."
+    },
+    {
+        "question": "How many employees did Wipro net add in Q1 FY25?",
+        "answer": "Wipro net added 337 employees during Q1 FY25.",
+        "context": "Wipro net added 337 employees during the quarter reversing the trend of declining headcount after six quarters."
+    },
+    {
+        "question": "What was the total value of large deals won by Wipro in Q1 FY25?",
+        "answer": "Wipro won large deals worth $1.2 billion during Q1 FY25.",
+        "context": "The Bengalurubased company won large deals worth   1.2 billion during the quarter down 3.6 percent onyear."
+    },
+    {
+        "question": "What is the company that signed a nonexclusive patent licensing agreement with Takeda Pharmaceutical Company to commercialize Vonoprazan tablets in India?",
+        "answer": "Dr Reddy s Laboratories",
+        "context": "The pharma company signed a nonexclusive patent licensing agreement with Takeda Pharmaceutical Company to commercialize Vonoprazan tablets in India. Vonoprazan is a novel orally active potassiumcompetitive acid blocker (PCAB) used to treat reflux esophagitis and other acid peptic disorders."
+    },
+    {
+        "question": "Which company's United States Food and Drug Administration (USFDA) conducted an inspection at the company s injectables manufacturing facility at Jarod Gujarat from April 15 to April 23 this year?",
+        "answer": "Zydus Lifesciences",
+        "context": "The United States Food and Drug Administration (USFDA) has conducted an inspection at the company s injectables manufacturing facility at Jarod Gujarat from April 15 to April 23 this year. The USFDA has determined that the inspection classification of this facility is Official Action Indicated (OAI)."
+    },
+    {
+        "question": "Which company has approved a plan to merge its stepdown subsidiary vCustomer Philippines (Cebu) Inc. with its parent company vCustomer Philippines Inc?",
+        "answer": "Tech Mahindra",
+        "context": "The company has approved a plan to merge its stepdown subsidiary vCustomer Philippines (Cebu) Inc. with its parent company vCustomer Philippines Inc. vCustomer Philippines Inc. is a wholly owned subsidiary of Tech Mahindra. The merger is subject to regulatory approvals in the country of incorporation."
+    },
+    {
+        "question": "Which company has received an order worth Rs 103 crore from NHAI New Delhi and Eastern Railway Kolkata?",
+        "answer": "GPT Infraprojects",
+        "context": "The company has received an order worth Rs 103 crore from NHAI New Delhi and Eastern Railway Kolkata. The contract is an enhancement of the existing contract with NHAI and Eastern Railway Kolkata."
+    },
+    {
+        "question": "Which company's Capital Raising Committee of the board will meet on July 23 to consider the rights issue price and related payment mechanisms rights entitlement ratio the record date and the timing of the issue?",
+        "answer": "Tata Consumer Products",
+        "context": "The Capital Raising Committee of the board will meet on July 23 to consider the rights issue price and related payment mechanisms rights entitlement ratio the record date and the timing of the issue. The board had approved a rights issue worth Rs 3000 crore in January 2024."
+    },
+    {
+        "question": "Which company's Capital Raising Committee of the board has approved the second tranche of the allotment of 415202701 equity shares worth Rs 614.5 crore at an issue price of Rs 14.80 per share to Nokia Solutions and Networks India and Ericsson India?",
+        "answer": "Vodafone Idea",
+        "context": "The Capital Raising Committee of the board has approved the second tranche of the allotment of 415202701 equity shares worth Rs 614.5 crore at an issue price of Rs 14.80 per share to Nokia Solutions and Networks India and Ericsson India vendors of the company on a preferential basis."
+    },
+    {
+        "question": "What company has opened its qualified institutions placement (QIP) issue on July 18?",
+        "answer": "JTL Industries",
+        "context": "The company has opened its qualified institutions placement (QIP) issue on July 18. The floor price has been fixed at Rs 221.57 per share."
+    },
+    {
+        "question": "Which company has after the retirement of Keki Elavia Independent Director the board has recommended the appointment of Subodh Nadkarni Independent Director as the Chairman of the board of directors of the company?",
+        "answer": "Grindwell Norton",
+        "context": "After the retirement of Keki Elavia Independent Director the board has recommended the appointment of Subodh Nadkarni Independent Director as the Chairman of the board of directors of the company."
+    },
+    {
+        "question": "What are the key factors driving Wipro's Q1 FY25 earnings expectations despite macroeconomic challenges?",
+        "answer": "Despite macroeconomic headwinds, Wipro's Q1 FY25 earnings are projected to be driven by new deal ramp-ups, operational efficiencies, and performance in specific verticals. Analysts at Axis Securities anticipate a 0.9% QoQ revenue growth for Wipro, primarily attributed to the ramp-up of new deals.",
+        "context": "The provided text discusses the upcoming announcement of Wipro's Q1 FY25 earnings. While acknowledging macroeconomic challenges and softness in certain sectors, the text highlights factors like new deal ramp-ups, operational efficiencies, and the performance of specific verticals as potential growth drivers for Wipro.  For instance, Axis Securities predicts a 0.9% QoQ revenue growth based on the expectation of new deals gaining momentum."
+    },
+    {
+        "question": "How is Wipro expected to perform in terms of revenue in the first quarter of FY25?",
+        "answer": "Analysts predict Wipro's revenue from operations to stay relatively stable in Q1 FY25.  Kotak Institutional Equities, for example, anticipates that Wipro will surpass the midpoint of their guidance, which ranges from -1.5% to 0.5%, attributing this performance to a strong showing by CAPCO and a potential rebound in the Americas market.",
+        "context": "The provided text centers around the market expectations and analysis of Wipro's Q1 FY25 earnings.  A key point of discussion is the anticipation of flat revenue growth for Wipro.  Kotak Institutional Equities, as mentioned in the text, believes Wipro's revenues will exceed the midpoint of the provided guidance (-1.5% to 0.5%). They attribute this to the strength of CAPCO and a likely positive turnaround in the Americas market."
+    },
+    {
+        "question": "How are Wipro's operational efficiencies expected to impact its Q1 FY25 earnings?",
+        "answer": " InCred Equities points out that Wipro's efforts to improve operational efficiencies could help counterbalance the rise in Selling General and Administrative (SG&A) expenses, especially after the notable reductions achieved in the preceding quarter.  These efficiency-boosting measures are likely to help stabilize margins even with the pressure on revenue.",
+        "context": "The excerpt delves into the factors influencing Wipro's Q1 FY25 earnings.  A significant point raised is the role of Wipro's operational efficiencies. InCred Equities, as highlighted in the text, suggests that these efficiencies could effectively offset the increased SG&A expenses, which would then contribute to stabilizing margins despite the challenges faced on the revenue front."
+    },
+    {
+        "question": "What is the expected impact of new deals on Wipro's Q1 FY25 revenue?",
+        "answer": "Axis Securities forecasts a 0.9% quarter-on-quarter revenue increase for Wipro in Q1 FY25, attributing this growth primarily to the ramp-up of new deals secured by the company.",
+        "context": "This section focuses on the factors contributing to Wipro's projected earnings in Q1 FY25. One of the key drivers highlighted is the impact of new deals on Wipro's revenue.  Axis Securities, for instance, predicts a 0.9% QoQ revenue growth, primarily driven by the ramp-up of these new deals, indicating their significance in Wipro's overall revenue projection for the quarter."
+    },
+    {
+        "question": "What challenges is Wipro facing in the retail and communications verticals in Q1 FY25?",
+        "answer": "According to Motilal Oswal, Wipro is likely to experience ongoing weakness in major verticals such as retail and communications. This is primarily attributed to a sense of caution among clients, leading to reduced spending in these sectors.",
+        "context": "This part of the text discusses the challenges and outlook for Wipro's Q1 FY25 earnings.  One area of concern highlighted is the performance of certain verticals, particularly retail and communications.  Motilal Oswal, as per the text, points out the likelihood of continued softness in these sectors for Wipro. This is primarily attributed to cautious client spending, suggesting a challenging environment for Wipro in these specific verticals."
+    },
+    {
+        "question": "What is the market consensus on Wipro's consolidated net profit for Q1 FY25?",
+        "answer": "Based on an average of nine estimates compiled by analysts, Wipro's consolidated net profit for the quarter ending in June is projected to increase by over 4% quarter-"
+    },
+    {
+        "question": "Which IT company received the most sell calls from analysts?",
+        "answer": "Wipro",
+        "context": "Wipro tops the list of stocks with the highest  sell  calls or maximum pessimism."
+    },
+    {
+        "question": "How many brokerages gave HCLTech a hold rating?",
+        "answer": "22",
+        "context": "The Street\u2019s stance on HCLTech is similar with the stock facing 22  sell  or  hold  calls compared to 21 buy ratings."
+    },
+    {
+        "question": "According to JM Financial, when is recovery expected for IT companies?",
+        "answer": "Towards the end of the current fiscal year",
+        "context": "Even though a respite is likely to come for the sector towards the end of the current fiscal year it is still some time away."
+    },
+    {
+        "question": "What is Axis Securities' view on discretionary spending in FY25?",
+        "answer": "No immediate recovery is expected",
+        "context": "While the street hopes for a pickup in discretionary spending through FY25 channel checks and recent peer commentaries suggest no immediate recovery"
+    },
+    {
+        "question": "When is Nomura expecting the bottom of sluggish revenue growth for the IT sector?",
+        "answer": "Q1 FY25",
+        "context": "Even though analysts at Nomura believe Q1 FY25 will mark the bottom of sluggish revenue growth for the Indian IT services sector"
+    },
+    {
+        "question": "What is the current stance of Nomura on the IT sector?",
+        "answer": "Neutral",
+        "context": "Regardless of the fact that Nomura has shifted from a  negative  to  neutral  stance on the sector"
+    },
+    {
+        "question": "What is a key concern for analysts regarding the recovery of the IT sector?",
+        "answer": "Cautious Fed rate cuts",
+        "context": "Uncertainty over rate cutsWhile investors across the globe are hoping to see the Federal Reserve deliver the first rate cut in September underlying caution on the same still prevails."
+    },
+    {
+        "question": "What are brokerages looking for in management commentaries after Q1 results?",
+        "answer": "Optimism",
+        "context": "Hence this time around brokerages would want to see some optimism from the management before shifting their stance on the sector."
+    },
+    {
+        "question": "How much did CLSA raise Wipro's target price by?",
+        "answer": "Rs 176",
+        "context": "The brokerage firm anticipates no further adjustments to Wipro s FY25 guidance and said it has noted a stabilization in discretionary demand which is helping the outlook. CLSA expects Wipro to provide Q2 constant currency revenue growth guidance in the range of 02 percent.In an exchange filing last month Wipro had said that a leading US communication services provider has awarded a contract to the company for managed services for some products and industryspecific solutions."
+    },
+    {
+        "question": "What was the percentage increase in Wipro's share price after CLSA's upgrade?",
+        "answer": "4%",
+        "context": "The revised price target implies a potential upside of nearly 41 percent from the June 28 closing level.The brokerage firm anticipates no further adjustments to Wipro s FY25 guidance and said it has noted a stabilization in discretionary demand which is helping the outlook. CLSA expects Wipro to provide Q2 constant currency revenue growth guidance in the range of 02 percent.In an exchange filing last month Wipro had said that a leading US communication services provider has awarded a contract to the company for managed services for some products and industryspecific solutions."
+    },
+    {
+        "question": "How much is the contract that Wipro won from the US communication services provider worth?",
+        "answer": "$500 million",
+        "context": "Wipro s announcement of a  500 million deal this quarter has also been received positively by CLSA. Another brokerage Morgan Stanley had also said that the mega US deal can be a positive especially given the tight discretionary spending environment.Aside of Wipro other IT stocks like Tech Mahindra LTIMindtree and Tata Consultancy Services (TCS) too were trading higher by up to 2 percent helping the Nifty IT index.Experts point to renewed foreign inflows and optimism surrounding potential US Fed rate cuts as key drivers behind the current rally in IT shares.According to Kranthi Bathini director of equity strategy at WealthMills Securities  Valuations of IT stocks appear very attractive from a longterm perspective."
+    },
+    {
+        "question": "What is the name of the brokerage firm that upgraded Wipro's rating?",
+        "answer": "CLSA",
+        "context": "The brokerage firm anticipates no further adjustments to Wipro s FY25 guidance and said it has noted a stabilization in discretionary demand which is helping the outlook. CLSA expects Wipro to provide Q2 constant currency revenue growth guidance in the range of 02 percent.In an exchange filing last month Wipro had said that a leading US communication services provider has awarded a contract to the company for managed services for some products and industryspecific solutions."
+    },
+    {
+        "question": "What did CLSA revise Wipro's rating from and to?",
+        "answer": "Underperform to Outperform",
+        "context": "The brokerage firm anticipates no further adjustments to Wipro s FY25 guidance and said it has noted a stabilization in discretionary demand which is helping the outlook. CLSA expects Wipro to provide Q2 constant currency revenue growth guidance in the range of 02 percent.In an exchange filing last month Wipro had said that a leading US communication services provider has awarded a contract to the company for managed services for some products and industryspecific solutions."
+    },
+    {
+        "question": "What percentage upside does CLSA's revised price target imply from the June 28 closing level?",
+        "answer": "41%",
+        "context": "The revised price target implies a potential upside of nearly 41 percent from the June 28 closing level.The brokerage firm anticipates no further adjustments to Wipro s FY25 guidance and said it has noted a stabilization in discretionary demand which is helping the outlook. CLSA expects Wipro to provide Q2 constant currency revenue growth guidance in the range of 02 percent.In an exchange filing last month Wipro had said that a leading US communication services provider has awarded a contract to the company for managed services for some products and industryspecific solutions."
+    },
+    {
+        "question": "What is the name of the director of equity strategy at WealthMills Securities?",
+        "answer": "Kranthi Bathini",
+        "context": "Aside of Wipro other IT stocks like Tech Mahindra LTIMindtree and Tata Consultancy Services (TCS) too were trading higher by up to 2 percent helping the Nifty IT index.Experts point to renewed foreign inflows and optimism surrounding potential US Fed rate cuts as key drivers behind the current rally in IT shares.According to Kranthi Bathini director of equity strategy at WealthMills Securities  Valuations of IT stocks appear very attractive from a longterm perspective."
+    },
+    {
+        "question": "What do experts say is driving the current rally in IT shares?",
+        "answer": "Renewed foreign inflows and optimism surrounding potential US Fed rate cuts",
+        "context": "Aside of Wipro other IT stocks like Tech Mahindra LTIMindtree and Tata Consultancy Services (TCS) too were trading higher by up to 2 percent helping the Nifty IT index.Experts point to renewed foreign inflows and optimism surrounding potential US Fed rate cuts as key drivers behind the current rally in IT shares.According to Kranthi Bathini director of equity strategy at WealthMills Securities  Valuations of IT stocks appear very attractive from a longterm perspective."
+    }
+]

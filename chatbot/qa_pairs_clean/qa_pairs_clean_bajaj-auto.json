@@ -1,0 +1,754 @@
+[
+    {
+        "question": "What was the topline growth reported by Bajaj Auto in Q1 FY25?",
+        "answer": "14% year-over-year (YoY) and 3.3% quarter-over-quarter (QoQ)",
+        "context": "Bajaj Auto Limited (Bajaj) reported Q1 FY25 topline growth of 14  yoy and 3.3  qoq as volumes in the domestic markets were up by 7  yoy on demand uptick seen in both 3W and 2W industry."
+    },
+    {
+        "question": "What was the growth rate of domestic motorcycle sales for Bajaj Auto in Q1 FY25?",
+        "answer": "7% YoY",
+        "context": "During the quarter domestic motorcycles grew by 7  yoy ."
+    },
+    {
+        "question": "What were the key factors driving the growth in domestic motorcycle sales for Bajaj Auto?",
+        "answer": "Success of 125 cc bikes, Triumph expansion, and Chetak ramp up",
+        "context": "The growth was due to success of  125 cc bikes Triumph expansion and Chetak ramp up."
+    },
+    {
+        "question": "What was the growth rate of motorcycle exports for Bajaj Auto in Q1 FY25?",
+        "answer": "6% YoY",
+        "context": "Motorcycle exports grew by 6  yoy ..."
+    },
+    {
+        "question": "What was the key export market that saw a recovery for Bajaj Auto in Q1 FY25?",
+        "answer": "Africa",
+        "context": "Exports grew by 7  as well on a yoy basis as Africa showed slow recovery."
+    },
+    {
+        "question": "How did Bajaj Auto's EBITDA perform in Q1 FY25?",
+        "answer": "It increased by 23.6% YoY to Rs 24.1 billion",
+        "context": "EBITDA was up by 23.6  yoy to Rs24.1 bn while margins moved up by 120 bps yoy to 20.2  and 10 bps qoq."
+    },
+    {
+        "question": "What were the key factors that contributed to the improvement in Bajaj Auto's margins in Q1 FY25?",
+        "answer": "Better cost management, improved operating leverage, product mix, and stable commodity costs",
+        "context": "Margins were up mainly on better cost management operating leverage improved product mix and stable commodity costs."
+    },
+    {
+        "question": "What is LKP Research's earnings per share (EPS) estimate for Bajaj Auto over FY24-26E?",
+        "answer": "20-24% CAGR",
+        "context": "We estimate revenue   EPS CAGR of 20    24  over FY2426E."
+    },
+    {
+        "question": "What was the Net Sales of Bajaj Auto in June 2024?",
+        "answer": "The Net Sales of Bajaj Auto in June 2024 was  Rs 11928.02 crore",
+        "context": "The provided text contains financial information about Bajaj Auto, including Net Sales, Quarterly Net Profit, EBITDA, EPS, and share performance. It states that Bajaj Auto's Net Sales in June 2024 were Rs 11928.02 crore, reflecting a 15.7% increase from June 2023."
+    },
+    {
+        "question": "How much did Bajaj Auto's Net Sales increase year-on-year in June 2024?",
+        "answer": "Bajaj Auto's Net Sales increased by 15.7% year-on-year in June 2024.",
+        "context": "The text compares Bajaj Auto's financial performance in June 2024 to June 2023. The Net Sales in June 2024 were Rs 11928.02 crore, a 15.7% rise from Rs. 10309.77 crore in June 2023."
+    },
+    {
+        "question": "What was Bajaj Auto's Quarterly Net Profit in June 2024?",
+        "answer": "Bajaj Auto's Quarterly Net Profit in June 2024 was Rs. 1988.34 crore.",
+        "context": "The financial data indicates that Bajaj Auto achieved a Quarterly Net Profit of Rs. 1988.34 crore in June 2024. This represents a 19.44% increase compared to the Quarterly Net Profit of Rs. 1664.77 crore in June 2023."
+    },
+    {
+        "question": "Calculate the percentage change in Bajaj Auto's Quarterly Net Profit between June 2023 and June 2024.",
+        "answer": "Bajaj Auto's Quarterly Net Profit increased by 19.44% from June 2023 to June 2024.",
+        "context": " Comparing the Quarterly Net Profit of Bajaj Auto in June 2023 and June 2024, we see an increase from Rs. 1664.77 crore to Rs. 1988.34 crore. This corresponds to a growth of 19.44%."
+    },
+    {
+        "question": "What was the EBITDA of Bajaj Auto in June 2024?",
+        "answer": "Bajaj Auto's EBITDA in June 2024 was Rs. 2736.20 crore.",
+        "context": "The financial figures highlight that Bajaj Auto's EBITDA reached Rs. 2736.20 crore in June 2024. This reflects an 18.95% increase compared to the EBITDA of Rs. 2300.26 crore in June 2023."
+    },
+    {
+        "question": "By what percentage did Bajaj Auto's EBITDA grow year-on-year in June 2024?",
+        "answer": "Bajaj Auto's EBITDA grew by 18.95% year-on-year in June 2024.",
+        "context": " Comparing the EBITDA of Bajaj Auto in June 2023 and June 2024, a notable increase is observed. The EBITDA grew from Rs. 2300.26 crore in June 2023 to Rs. 2736.20 crore in June 2024, representing a growth rate of 18.95%."
+    },
+    {
+        "question": "What is the EPS of Bajaj Auto in June 2024?",
+        "answer": "Bajaj Auto's EPS in June 2024 is Rs. 71.20.",
+        "context": "The provided information reveals that Bajaj Auto's EPS has shown positive growth. It increased from Rs. 58.90 in June 2023 to Rs. 71.20 in June 2024."
+    },
+    {
+        "question": "What was Bajaj Auto's share price on the NSE on July 18, 2024, and what returns did it deliver over the past 6 and"
+    },
+    {
+        "question": "What was Bajaj Auto's net sales in June 2024?",
+        "answer": "Rs 11932.07 crore",
+        "context": "Net Sales at Rs 11932.07 crore in June 2024 up 15.71 from Rs. 10311.91 crore in June 2023."
+    },
+    {
+        "question": "How much was Bajaj Auto's net profit in June 2024?",
+        "answer": "Rs. 1941.79 crore",
+        "context": "Quarterly Net Profit at Rs. 1941.79 crore in June 2024 up 18.1 from Rs. 1644.14 crore in June 2023."
+    },
+    {
+        "question": "What was Bajaj Auto's EBITDA in June 2024?",
+        "answer": "Rs. 2705.76 crore",
+        "context": "EBITDA stands at Rs. 2705.76 crore in June 2024 up 18.5 from Rs. 2283.37 crore in June 2023."
+    },
+    {
+        "question": "What was Bajaj Auto's EPS in June 2024?",
+        "answer": "Rs. 69.60",
+        "context": "Bajaj Auto EPS has increased to Rs. 69.60 in June 2024 from Rs. 58.10 in June 2023."
+    },
+    {
+        "question": "What was Bajaj Auto's share price on July 16 2024?",
+        "answer": "9718.35",
+        "context": "Bajaj Auto shares closed at 9718.35 on July 16 2024 (NSE)."
+    },
+    {
+        "question": "What were Bajaj Auto's returns over the last 6 months?",
+        "answer": "33.24",
+        "context": "Bajaj Auto shares closed at 9718.35 on July 16 2024 (NSE) and has given 33.24 returns over the last 6 months."
+    },
+    {
+        "question": "What were Bajaj Auto's returns over the last 12 months?",
+        "answer": "101.08",
+        "context": "Bajaj Auto shares closed at 9718.35 on July 16 2024 (NSE) and has given 33.24 returns over the last 6 months and 101.08 over the last 12 months."
+    },
+    {
+        "question": "How much did Bajaj Auto's net sales increase from June 2023 to June 2024?",
+        "answer": "15.71",
+        "context": "Net Sales at Rs 11932.07 crore in June 2024 up 15.71 from Rs. 10311.91 crore in June 2023."
+    },
+    {
+        "question": "How did Bajaj Auto's standalone revenue perform in Q1FY25?",
+        "answer": "Bajaj Auto's standalone revenue showed a 15.7% YoY growth, reaching Rs119.3bn in Q1FY25.",
+        "context": "Bajaj Auto's Q1FY25 financial results revealed a 15.7% year-on-year increase in standalone revenue, reaching Rs119.3 billion. This figure surpassed Prabhudas Lilladher's estimate by 1.8% but fell short of the Bloomberg consensus estimate by 2%. The revenue growth was fueled by a 7.9% YoY rise in average selling price (ASP), primarily driven by a significant 760 basis points improvement in the 125cc and above motorcycle categories. This favorable product mix effectively offset the impact of rising input costs, contributing to a 23.6% YoY increase in EBITDA, which reached Rs24.2 billion."
+    },
+    {
+        "question": "What was the impact of the improved product mix on Bajaj Auto's profitability?",
+        "answer": "The improved product mix at Bajaj Auto, with higher sales in the premium segment, helped offset increased input costs and resulted in a 23.6% YoY growth in EBITDA to Rs24.2bn.",
+        "context": "Bajaj Auto experienced a significant improvement in its product mix during Q1FY25, marked by a shift towards higher-priced motorcycles, particularly in the 125cc and above categories. This strategic shift resulted in a 760 basis points improvement in the mix of these premium segments. The positive impact of this mix on ASP effectively counterbalanced the pressure from rising input costs. Consequently, Bajaj Auto achieved a 23.6% year-on-year increase in EBITDA, reaching Rs24.2 billion, outperforming both Prabhudas Lilladher's and Bloomberg's estimates."
+    },
+    {
+        "question": "How did Bajaj Auto's actual EBITDA margin in Q1FY25 compare to Prabhudas Lilladher's and Bloomberg's estimates?",
+        "answer": "Bajaj Auto's Q1FY25 EBITDA margin stood at 20.2%, surpassing Prabhudas Lilladher's estimate of 19.8% and Bloomberg's estimate of 19.6%.",
+        "context": "Bajaj Auto outperformed earnings expectations in Q1FY25, with its EBITDA margin reaching 20.2%. This figure exceeded Prabhudas Lilladher's projection of 19.8% and Bloomberg's estimate of 19.6%. The company's robust operational performance, largely attributed to a favorable product mix and improved ASP, contributed to this positive margin deviation. Notably, the higher-than-expected EBITDA margin further underscores the effectiveness of Bajaj Auto's strategic focus on premium motorcycle segments."
+    },
+    {
+        "question": "What is Prabhudas Lilladher's outlook on Bajaj Auto's premium segment and its impact on the company's performance?",
+        "answer": "Prabhudas Lilladher anticipates continued growth in Bajaj Auto's premium segment, driving higher ASP and margins, and contributing to a positive future outlook for the company.",
+        "context": "Prabhudas Lilladher maintains a positive outlook on Bajaj Auto's future performance, largely driven by the company's strong positioning in the premium motorcycle segment. The research firm expects the growth momentum in premium products to persist, further enhancing Bajaj Auto's ASP and margins. This optimistic outlook stems from the management's strategic emphasis on expanding its presence in the premium category, aiming for a growth rate that outpaces the overall industry."
+    },
+    {
+        "question": "What is the rationale behind Prabhudas Lilladher upgrading its rating on Bajaj Auto's stock?",
+        "answer": "Prabhudas Lilladher upgraded Bajaj Auto from 'Hold' to 'Accumulate' due to the company's healthy growth in premium products, management's focus on above-industry growth in the premium category, and strong financial performance.",
+        "context": "Prabhudas Lilladher revised its rating on Bajaj Auto's stock from 'Hold' to 'Accumulate' based on several positive factors. The upgrade is primarily attributed to the company's impressive growth trajectory in the premium motorcycle segment, which is anticipated to drive both ASP and margin expansion. Furthermore, the management's strategic focus on achieving higher-than-industry growth in this lucrative category reinforces Prabhudas Lilladher's confidence in Bajaj Auto"
+    },
+    {
+        "question": "What was Bajaj Auto's consolidated net profit for Q1 FY25?",
+        "answer": "Bajaj Auto posted an 18 percent year-on-year rise in consolidated net profit to Rs 1988 crore for Q1 FY25.",
+        "context": "Thanks to consistent demand, robust 2-wheeler sales, and higher realizations, the Pune-headquartered company posted an 18 percent on-year rise in consolidated net profit to Rs 1988 crore."
+    },
+    {
+        "question": "Did the Q1 FY25 earnings meet the expectations of brokerages?",
+        "answer": "The company's Q1 FY25 earnings surpassed the expectations of brokerages, as a poll of seven brokerages had pegged the net profit at Rs 1965 crore.",
+        "context": "A poll of seven brokerages had pegged the net profit at Rs 1965 crore. However, the result hasn\u2019t been able to convince a host of brokerages as UBS, Macquarie, and CLSA have issued bearish calls on the counter."
+    },
+    {
+        "question": "What is UBS's target price for Bajaj Auto?",
+        "answer": "UBS has issued a \"sell\" rating on Bajaj Auto with a target price of Rs 6250, indicating a potential downside of 35.5 percent.",
+        "context": "UBS has issued a \"sell\" rating on the company with a target price of Rs 6250, a downside of 35.5 percent. The brokerage anticipates margin tailwinds to moderate ahead."
+    },
+    {
+        "question": "What is Macquarie's view on Bajaj Auto's growth prospects?",
+        "answer": "Macquarie maintains a \"neutral\" stance on Bajaj Auto with a target price of Rs 9655 per share, citing multiple growth drivers such as the introduction of CNG motorcycles and the expansion of their electric two-wheeler portfolio.",
+        "context": "Macquarie is \"neutral\" on Bajaj Auto with a target price of Rs 9655 per share. It said that multiple growth drivers are in play including the introduction of CNG motorcycles and the expansion of their electric twowheeler (E2W) portfolio with models priced under Rs 1 lakh."
+    },
+    {
+        "question": "Why does CLSA have an \"underperform\" rating on Bajaj Auto?",
+        "answer": "CLSA retains its \"underperform\" rating on Bajaj Auto due to concerns over expensive valuations and the need for an export recovery.",
+        "context": "CLSA also retains its \"underperform\" rating on the stock as it believes that valuations are expensive and await export recovery."
+    },
+    {
+        "question": "What are the key growth drivers identified by Nomura for Bajaj Auto?",
+        "answer": "Nomura remains bullish on Bajaj Auto and maintains its \"buy\" rating, highlighting export recovery as a key growth driver.",
+        "context": "On the contrary, Nomura is bullish on the stock and has maintained its \"buy\" rating and hiked the price target to Rs 10926, a 13 percent upside from current market levels. \"Bajaj Auto remains preferred 2-wheeler pick as it continues to build on growth drivers\" analysts state in a recent note. \"Export recovery to sustain momentum\" they added."
+    },
+    {
+        "question": "What is the recent performance of Bajaj Auto's Pulsar motorcycle?",
+        "answer": "Bajaj Auto's popular motorcycle, Pulsar, has maintained its double-digit growth trajectory, driven by a premiumization strategy.",
+        "context": "Bajaj Auto\u2019s popular motorcycle Pulsar also retained its double-digit growth trajectory aided by a premiumisation thrust the company said."
+    },
+    {
+        "question": "What is the overall trend of Bajaj Auto's stock price since the beginning of the year?",
+        "answer": "Bajaj Auto shares have experienced a significant rally of over 40 percent since the start of the year.",
+        "context": "Bajaj Auto shares have rallied over 40 percent since the start of the year."
+    },
+    {
+        "question": "What is Jefferies' rating on Asian Paints?",
+        "answer": "Underperform",
+        "context": "Jefferies has an Underperform rating on Asian Paints with a target price of Rs 2100."
+    },
+    {
+        "question": "What is the target price set by JPMorgan for Asian Paints?",
+        "answer": "Rs 2800",
+        "context": "JPMorgan has set a target price of Rs 2800 for Asian Paints with a Neutral rating."
+    },
+    {
+        "question": "What is the target price set by GS for Asian Paints?",
+        "answer": "Rs 2750",
+        "context": "GS has set a target price of Rs 2750 for Asian Paints with a Neutral rating."
+    },
+    {
+        "question": "What rating did Nomura give to Eicher Motors?",
+        "answer": "Reduce",
+        "context": "Nomura has given a Reduce rating to Eicher Motors with a target price of Rs 4119."
+    },
+    {
+        "question": "What is CLSA's rating on Eicher Motors?",
+        "answer": "Underperform",
+        "context": "CLSA has an Underperform rating on Eicher Motors with a target price of Rs 4157."
+    },
+    {
+        "question": "What rating did Macquarie give to Bajaj Auto?",
+        "answer": "Neutral",
+        "context": "Macquarie has given a Neutral rating to Bajaj Auto with a target price of Rs 9655."
+    },
+    {
+        "question": "What is UBS's rating on Bajaj Auto?",
+        "answer": "Sell",
+        "context": "UBS has a Sell rating on Bajaj Auto with a target price of Rs 6250."
+    },
+    {
+        "question": "What rating did Nomura give to LTIMindtree?",
+        "answer": "Reduce",
+        "context": "Nomura has given a Reduce rating to LTIMindtree with a target price of Rs 4670."
+    },
+    {
+        "question": "What was the key reason behind Bajaj Auto's strong performance?",
+        "answer": "Improved motorcycle sales mix and higher gross margin.",
+        "context": "Improved motorcycle sales mix and gross margin ( 190 bps YoY) resulted in 4.8  2.7  beat in EBITDA and APAT estimates."
+    },
+    {
+        "question": "How has the response been to Bajaj Auto's CNG motorcycles?",
+        "answer": "Initial response has been positive.",
+        "context": "Initial response to CNG motorcycles has been positive while exports to African markets have yet to recover fully."
+    },
+    {
+        "question": "What is Sharekhan's revised price target for Bajaj Auto?",
+        "answer": "Rs. 11400.",
+        "context": "We retain our BUY rating on the stock with a revised PT of Rs. 11400 on its superior profitability play on premiumisation and expectation of a gradual recovery in exports."
+    },
+    {
+        "question": "At what P/E multiple is Bajaj Auto's stock currently trading?",
+        "answer": "26.2x.",
+        "context": "The stock trades at a P E multiple of 26.2x and EV EBITDA multiple of 19.4x its FY2026E estimates."
+    },
+    {
+        "question": "What is the EV EBITDA multiple for Bajaj Auto's stock?",
+        "answer": "19.4x.",
+        "context": "The stock trades at a P E multiple of 26.2x and EV EBITDA multiple of 19.4x its FY2026E estimates."
+    },
+    {
+        "question": "What is the basis for Sharekhan's BUY rating on Bajaj Auto?",
+        "answer": "Superior profitability play on premiumisation and expectation of a gradual recovery in exports.",
+        "context": "We retain our BUY rating on the stock with a revised PT of Rs. 11400 on its superior profitability play on premiumisation and expectation of a gradual recovery in exports."
+    },
+    {
+        "question": "What is the EBITDA beat for Bajaj Auto?",
+        "answer": "4.8.",
+        "context": "Improved motorcycle sales mix and gross margin ( 190 bps YoY) resulted in 4.8  2.7  beat in EBITDA and APAT estimates."
+    },
+    {
+        "question": "What is the APAT beat for Bajaj Auto?",
+        "answer": "2.7.",
+        "context": "Improved motorcycle sales mix and gross margin ( 190 bps YoY) resulted in 4.8  2.7  beat in EBITDA and APAT estimates."
+    },
+    {
+        "question": "What is the research report on?",
+        "answer": "Emkay Global Financial's research report is on Bajaj Auto.",
+        "context": "Emkay Global Financial s research report on Bajaj AutoBJAUT reported a steady Q1 (revenue EBITDA up 16  24  YoY  20.2  EBITDA margin aided by 50bps accrual of PLI benefit)."
+    },
+    {
+        "question": "What are the key highlights of the report?",
+        "answer": "The report highlights Bajaj Auto's steady Q1 performance with a 16% revenue growth, 24% EBITDA growth, and 20.2% EBITDA margin aided by 50bps accrual of PLI benefit. It also mentions that the company's domestic 2W prospects are healthy, but its position has slipped in the 125cc motorcycle segment. The report also discusses the company's focus on Triumph and its gradual export recovery.",
+        "context": "Domestic 2W prospects are healthy though BJAUT s position has slipped now (also in the 125cc motorcycle)  response to newlylaunched CNG motorcycle needs to be watched. The mgmt guided for exports recovery to be gradual and its focus on Triumph is to build brand awareness."
+    },
+    {
+        "question": "What is the analysts' view on Bajaj Auto's valuations?",
+        "answer": "The analysts believe that Bajaj Auto's valuations are expensive, trading near 2SD from LTA at 28x FY26E PER.",
+        "context": "Valuations though remain expensive (trades near 2SD from LTA at 28x FY26E PER)."
+    },
+    {
+        "question": "What are the analysts' recommendations on Bajaj Auto?",
+        "answer": "The analysts retain their REDUCE recommendation on Bajaj Auto and revise their target price to Rs8300 per share.",
+        "context": "OutlookWe raise FY26E EPS by  2.6  (higher margin) and introduce FY27 estimates (13  FY2427E EPS CAGR)  we retain REDUCE and revise TP to Rs8300 sh (roll over core 23x multiple to Jun26E)   Rs900 cash   investment sh."
+    },
+    {
+        "question": "Which company do the analysts prefer in the 2W segment?",
+        "answer": "The analysts prefer Hero MotoCorp (HMCL) in the 2W segment.",
+        "context": "We prefer HMCL in 2Ws (link) amid growth rerating triggers (successful Xtreme 125R launch) and an attractive riskreward."
+    },
+    {
+        "question": "What are the growth drivers for Hero MotoCorp?",
+        "answer": "The analysts believe that the successful launch of the Xtreme 125R and an attractive risk-reward profile are the growth drivers for Hero MotoCorp.",
+        "context": "We prefer HMCL in 2Ws (link) amid growth rerating triggers (successful Xtreme 125R launch) and an attractive riskreward."
+    },
+    {
+        "question": "What is the target price for Bajaj Auto?",
+        "answer": "The revised target price for Bajaj Auto is Rs8300 per share.",
+        "context": "OutlookWe raise FY26E EPS by  2.6  (higher margin) and introduce FY27 estimates (13  FY2427E EPS CAGR)  we retain REDUCE and revise TP to Rs8300 sh (roll over core 23x multiple to Jun26E)   Rs900 cash   investment sh."
+    },
+    {
+        "question": "What is the earnings per share (EPS) growth rate for Bajaj Auto?",
+        "answer": "The analysts estimate a 13% EPS CAGR for Bajaj Auto over the period FY24-27.",
+        "context": "OutlookWe raise FY26E EPS by  2.6  (higher margin) and introduce FY27 estimates (13  FY2427E EPS CAGR)  we retain REDUCE and revise TP to Rs8300 sh (roll over core 23x multiple to Jun26E)   Rs900 cash   investment sh."
+    },
+    {
+        "question": "What is the current market price of Bajaj Auto shares?",
+        "answer": "Rs 9696",
+        "context": "The current market price of Bajaj Auto shares is Rs 9696."
+    },
+    {
+        "question": "What is the market capitalization of Bajaj Auto?",
+        "answer": "Rs 2.70 lakh crore",
+        "context": "The market capitalization of Bajaj Auto is Rs 2.70 lakh crore."
+    },
+    {
+        "question": "What is the rating of Bajaj Auto?",
+        "answer": "Equalweight",
+        "context": "The rating of Bajaj Auto is Equalweight."
+    },
+    {
+        "question": "What drove Bajaj Auto's strong performance in FY25?",
+        "answer": "A rich product mix and robust sales of spare parts",
+        "context": "Bajaj Auto's strong performance in FY25 was driven by a rich product mix and robust sales of spare parts."
+    },
+    {
+        "question": "In which month did Bajaj Auto start FY25?",
+        "answer": "June",
+        "context": "Bajaj Auto started FY25 in June."
+    },
+    {
+        "question": "What is the expected growth rate of twowheeler sales in India for this fiscal year?",
+        "answer": "68 percent",
+        "context": "Twowheeler sales in India are expected to grow around 68 per cent this fiscal and could reach the peak level of 201819 either in the fourth quarter or the beginning of next financial year."
+    },
+    {
+        "question": "When could Bajaj Auto reach its peak sales level achieved in 201819?",
+        "answer": "Fourth quarter of this year or first quarter of next year",
+        "context": "When asked by when the industry could touch the peak sales achieved in 201819 he said If not Q4 of this year by Q1 of next year we should be able to breach the watermark of FY19."
+    },
+    {
+        "question": "What was the domestic twowheeler sales volume in 201819?",
+        "answer": "2.12 crore units",
+        "context": "In 201819 domestic twowheeler sales were at 2.12 crore units."
+    },
+    {
+        "question": "What was the domestic twowheeler sales volume in FY24?",
+        "answer": "1.8 crore units",
+        "context": "In FY24 domestic twowheeler sales were at 1.8 crore units according to Society of Indian Automobile Manufacturers (SIAM) data."
+    },
+    {
+        "question": "What is one of the key factors driving growth of twowheeler sales?",
+        "answer": "Bounce back of retail financing",
+        "context": "One of the key factors driving growth of twowheeler sales is the bounce back of retail financing he said."
+    },
+    {
+        "question": "What percentage of twowheeler purchases are getting financed today?",
+        "answer": "75 percent",
+        "context": "Things have been on an upswing in retail finance with 75 per cent of twowheeler purchases are getting financed today as compared to 65 per cent around the same time last year he added."
+    },
+    {
+        "question": "When did Bajaj Auto increase prices due to rising commodity prices?",
+        "answer": "July 1",
+        "context": "We have taken price hikes on July 1 in both domestic and internal markets."
+    },
+    {
+        "question": "What is the estimated impact of rising commodity prices on Bajaj Auto?",
+        "answer": "Around 23 percent",
+        "context": "The impact of this is around 23 per cent."
+    },
+    {
+        "question": "How did the economic conditions in Nigeria impact Bajaj Auto's sales?",
+        "answer": "Bajaj Auto's monthly sales in Nigeria plummeted from around 50,000 units to below 5,000 units in April due to severe economic conditions and currency devaluation.",
+        "context": "While Bajaj Auto is witnessing a small but steady revival in the export markets, Nigeria poses significant challenges. The company's monthly sales in Nigeria, which typically hover around 50,000 units, plummeted to below 5,000 in April due to severe economic conditions and currency devaluation. Although sales have since rebounded to approximately 15,000 units per month, this figure remains 70 percent below the benchmark."
+    },
+    {
+        "question": "What is the current sales figure of Bajaj Auto in Nigeria and how does it compare to the benchmark?",
+        "answer": "Although sales have rebounded to approximately 15,000 units per month, this figure remains 70 percent below the benchmark of 50,000 units.",
+        "context": "While Bajaj Auto is witnessing a small but steady revival in the export markets, Nigeria poses significant challenges. The company's monthly sales in Nigeria, which typically hover around 50,000 units, plummeted to below 5,000 in April due to severe economic conditions and currency devaluation. Although sales have since rebounded to approximately 15,000 units per month, this figure remains 70 percent below the benchmark."
+    },
+    {
+        "question": "What were the contributing factors to the decline in consumer demand in Nigeria, according to Bajaj Auto?",
+        "answer": "High government debt, a rise in unemployment, and shrinking oil output have severely dented consumer demand in Nigeria.",
+        "context": "High government debt, a rise in unemployment, and shrinking oil output have severely dented consumer demand. Despite recent stabilization in the Nigerian currency, the impact of these economic challenges continues to be felt."
+    },
+    {
+        "question": "How have Bajaj Auto's sales performed in other regions compared to Nigeria?",
+        "answer": "In contrast to Nigeria, Bajaj Auto is seeing positive trends in other regions. Sales have increased by 20 percent in the Middle East and North Africa, by 70 percent in Asia (led by the Philippines and Nepal), and by 26 percent in Latin America (LATAM), reaching or exceeding last year's levels.",
+        "context": "However, the company is seeing positive trends in other regions. In the Middle East and North Africa, sales have increased by 20 percent, in Asia (led by the Philippines and Nepal) by 70 percent, and in Latin America (LATAM) by 26 percent, reaching or exceeding last year's levels."
+    },
+    {
+        "question": "What is the production capacity of Bajaj Auto's new plant in Manaus, Brazil?",
+        "answer": "The new plant in Manaus, Brazil, commenced production in June and can produce up to 50,000 motorcycles per year.",
+        "context": "In recovering and growing markets, the company is significantly outperforming the industry and gaining market share. The new plant in Manaus, Brazil, commenced production in June and can produce up to 50,000 motorcycles per year, greatly enhancing Bajaj's production capacity."
+    },
+    {
+        "question": "Which Bajaj Auto brand is performing well in Brazil, and where does the company expect Brazil to rank among its international markets in the medium term?",
+        "answer": "The Dominar brand has shown excellent traction in Brazil, and Bajaj Auto expects Brazil to be among its top three international markets in the medium term.",
+        "context": "Traction for our Dominar brand has been excellent, and in the medium term, we expect Brazil to be amongst our top three international markets', the two and three-wheeler major added."
+    },
+    {
+        "question": "Which new market segment has Bajaj Auto tapped into with the export of its Qute vehicle?",
+        "answer": "Bajaj Auto has begun exporting its small vehicle, the Qute, to Egypt, with 500 vehicles shipped in the first quarter, opening a new market segment for the company.",
+        "context": "Additionally, the company has begun exporting its small vehicle, the Qute, to Egypt, with 500 vehicles shipped in the first quarter, opening a new market segment for the company."
+    },
+    {
+        "question": "What is Bajaj Auto's outlook for its export business?",
+        "answer": "Despite the"
+    },
+    {
+        "question": "What was Bajaj Auto's net profit in Q1 FY25?",
+        "answer": "Rs 1941.79 crore",
+        "context": "Bajaj Auto Ltd on July 16 posted an 18 percent onyear rise in its Q1 FY25 consolidated net profit to Rs 1941.79 crore thanks to consistent demand robust 2wheeler sales and higher realisations."
+    },
+    {
+        "question": "What was the percentage increase in Bajaj Auto's revenue in Q1 FY25?",
+        "answer": "16 percent",
+        "context": "The Punebased automaker s revenue during the AprilJune quarter jumped 16 percent onyear to Rs 11932 crore aided by robust vehicles sales and record spares revenue leading to a higher average selling price (ASP)."
+    },
+    {
+        "question": "Did Bajaj Auto's results meet analysts' expectations?",
+        "answer": "Yes",
+        "context": "Bajaj Auto results exceeded analysts  expectations. A   poll of seven brokerage estimates pegged Bajaj Auto s fiscal first quarter net profit growth at 18 percent onyear to Rs 1965 crore and revenue growth at 14 percent to Rs 11793 crore."
+    },
+    {
+        "question": "How many units of vehicles did Bajaj Auto sell in Q1 FY25?",
+        "answer": "1102056 units",
+        "context": "The Rajiv Bajajled company sold 1102056 units of vehicles in the June 2024 quarter a growth of 7 percent as against 1027407 units sold in the same quarter last year."
+    },
+    {
+        "question": "What was the percentage of domestic revenue contributed by Bajaj Auto's electric portfolio in Q1 FY25?",
+        "answer": "14 percent",
+        "context": "The electric portfolio (e2W e3W) comprised 14 percent of domestic revenues this quarter which is a reflection of the steady work on building this  the company said in a release."
+    },
+    {
+        "question": "What was the growth in Bajaj Auto's EBITDA in Q1 FY25?",
+        "answer": "24 percent",
+        "context": "The company s earnings before interest tax depreciation and amortization (EBITDA) in Q1FY24 went up by 24 percent to Rs 2415 crore from Rs 1954 crore while operating margin improved by 130 basis points (bps) to 20.2 percent from 19 percent YoY."
+    },
+    {
+        "question": "Which region contributed the most to Bajaj Auto's export revenue growth in Q1 FY25?",
+        "answer": "LATAM",
+        "context": "The homegrown automaker stated that the exports revenue grew doubledigit YoY with LATAM clocking its highest ever and an uptick in Asia alleviating challenges in Africa. Consistent growth and market share gains over time has led to LATAM emerging as the largest region this quarter  notably the first owned overseas assembling facility was commissioned in Manaus Brazil with an annual capacity of 20000 units (single shift basis)  added Bajaj Auto in a release."
+    },
+    {
+        "question": "What was the growth trajectory of Bajaj Auto's Pulsar motorcycle in Q1 FY25?",
+        "answer": "Doubledigit growth",
+        "context": "Bajaj Auto s popular motorcycle Pulsar also retained its doubledigit growth trajectory aided by a premiumisation thrust the company said."
+    },
+    {
+        "question": "When is Bajaj Auto expected to release its earnings report for the first fiscal quarter of FY25?",
+        "answer": "July 16 Tuesday",
+        "context": "Puneheadquartered Bajaj Auto Limited is set to release its earnings report for the first fiscal quarter of FY25 on July 16 Tuesday."
+    },
+    {
+        "question": "What is Bajaj Auto's revenue expected to grow to?",
+        "answer": "Rs 11793 crore",
+        "context": "According to a poll the Triumph maker is anticipated to record a 14.3 percent yearonyear increase in revenue reaching Rs 11793 crore."
+    },
+    {
+        "question": "What is Bajaj Auto's net profit projected to increase to?",
+        "answer": "Rs 1965 crore",
+        "context": "Net profit is projected to surge 18 percent to Rs 1965 crore from Rs 1665 crore in the same quarter of the previous fiscal year."
+    },
+    {
+        "question": "What are the factors driving Bajaj Auto's earnings?",
+        "answer": "Steady demand, rich product mix, and improving exports",
+        "context": "Analysts suggest that the revenue performance of the company will be strong driven by higher volume demand trends in the 125 cc motorcycle segment and robust growth in the domestic 3wheeler segment. Bajaj Auto over the past year has had a series of launches which brokerages predict are also key growth drivers in the coming quarters. Kotak Institutional Equities believes that the increase in the export twowheeler segment is due to improved demand trends in African and South Asian regions which are growing from a previously lower base."
+    },
+    {
+        "question": "What is Bajaj Auto's EBITDA margin expected to improve by?",
+        "answer": "90bps",
+        "context": "EBITDA margin is expected to improve by 90bps largely aided bya robust product mix operating leverage and cost control efforts."
+    },
+    {
+        "question": "What factors may lift the volumes for Bajaj Auto's segment?",
+        "answer": "Aboveaverage monsoon expectations and ruralfocused budget reforms",
+        "context": "Aboveaverage monsoon expectations and ruralfocused budget reforms may lift the volumes for the segment."
+    },
+    {
+        "question": "What percentage has Bajaj Auto's stock rallied since the start of the year?",
+        "answer": "Over 40 percent",
+        "context": "Bajaj Auto shares were trading at Rs 9541 higher by 1.2 percent from the last close. The Bajaj Auto stock has rallied over 40 percent since the start of the year."
+    },
+    {
+        "question": "What is Bajaj Auto's stock currently trading at?",
+        "answer": "Rs 9541",
+        "context": "Bajaj Auto shares were trading at Rs 9541 higher by 1.2 percent from the last close."
+    },
+    {
+        "question": "What did Bajaj Auto request from the Supreme Court?",
+        "answer": "Bajaj Auto requested the Supreme Court to lift the cap on auto rickshaws in Delhi.",
+        "context": "The Supreme Court has turned down Bajaj Auto s plea that had sought a lifting of cap on threewheelers in Delhi a request that was opposed by the State government."
+    },
+    {
+        "question": "Why did the Supreme Court reject Bajaj Auto's request?",
+        "answer": "The Supreme Court rejected Bajaj Auto's request because they did not want to allow such an order just because the manufacturer sought it.",
+        "context": "The Supreme Court in its response said that they will not allow such an order just because the manufacturer sought it."
+    },
+    {
+        "question": "What was Bajaj Auto seeking to remove the restriction on?",
+        "answer": "Bajaj Auto was seeking to remove the restriction on the number of auto rickshaws with a two-stroke engine in Delhi.",
+        "context": "Bajaj Auto was seeking removal of restriction on the number of auto rickshaws with a twostroke engine in Delhi."
+    },
+    {
+        "question": "How many auto rickshaws are currently running on CNG in Delhi?",
+        "answer": "Delhi has nearly 92000 auto rickshaws that are running on CNG.",
+        "context": "The city has nearly 92000 auto rickshaws that are running on CNG and the older lot of vehicles are currently being phased out."
+    },
+    {
+        "question": "What did the Supreme Court direct in 1997?",
+        "answer": "The Supreme Court had in 1997 issued a directive to freeze the number of auto rickshaws citing these as contributors to Delhi s pollution.",
+        "context": "The Supreme Court had in 1997 issued a directive to freeze the number of auto rickshaws citing these as contributors to Delhi s pollution."
+    },
+    {
+        "question": "What did Bajaj Auto call the Delhi government's decision to issue permits to over 4200 electric auto rickshaws?",
+        "answer": "Bajaj Auto called the Delhi government's decision to issue permits to over 4200 electric auto rickshaws  arbitrary  and  restrictive market opportunity .",
+        "context": "In the past Bajaj Auto had also opposed Delhi government s decision to issue permits to over 4200 electric auto rickshaws calling the move  arbitrary  and  restrictive market opportunity ."
+    },
+    {
+        "question": "What did CFO Dinesh Thapar say about the growth in three wheeler segment in Bajaj Auto's earnings call in April 2024?",
+        "answer": "CFO Dinesh Thapar said that the growth in three wheeler segment will be driven by eautos and expansion of the CNG network.",
+        "context": "Bajaj Auto has been steadily building its ethreewheeler offering and in its earnings call in April 2024 CFO Dinesh Thapar had said that the growth in three wheeler segment will be driven by eautos and expansion of the CNG network."
+    },
+    {
+        "question": "What percentage of the industry is currently served by electric rickshaws?",
+        "answer": "Electric rickshaws currently serve almost 45 percent of the industry.",
+        "context": "This is almost 45 percent of the industry and it is currently served by ericks and presents a fresh new opportunity for growth  Thapar had said in April."
+    },
+    {
+        "question": "What is the reason for the drop in Bajaj Auto's share price?",
+        "answer": "UBS downgraded Bajaj Auto to \\\"sell\\\", citing the company's recent launch of a CNG motorcycle and the belief that the future lies in electric vehicles.",
+        "context": "Shares of Bajaj Auto Limited traded more one percent lower to Rs 9534 in morning trade on July 8 after international brokerage UBS gave a  sell  call on the counter following the company s CNG bike launch the first of its kind in India.UBS has assigned a target price of Rs 6250 implying a downside potential of 35 percent from the current market levels."
+    },
+    {
+        "question": "What is UBS's target price for Bajaj Auto?",
+        "answer": "Rs 6250",
+        "context": "UBS has assigned a target price of Rs 6250 implying a downside potential of 35 percent from the current market levels."
+    },
+    {
+        "question": "What is UBS's rationale for downgrading Bajaj Auto?",
+        "answer": "UBS believes that the future of the motorcycle market lies in electric vehicles, and that CNG motorcycles will not slow down the market's electrification.",
+        "context": "UBS believes the future remains in electric vehicles (EVs) and that CNG motorcycles won t slow down the market s electrification."
+    },
+    {
+        "question": "What type of motorcycle did Bajaj Auto recently launch?",
+        "answer": "A 125cc CNG motorcycle",
+        "context": "The Triumphmaker recently launched a 125cc CNG motorcycle priced between Rs 95000 and Rs 110000."
+    },
+    {
+        "question": "What is the price range of the new Bajaj Auto CNG motorcycle?",
+        "answer": "Rs 95,000 to Rs 110,000",
+        "context": "The Triumphmaker recently launched a 125cc CNG motorcycle priced between Rs 95000 and Rs 110000."
+    },
+    {
+        "question": "What is the market share of Hero in the 100-110cc and entry-level 125cc motorcycle segments?",
+        "answer": "66%",
+        "context": "However the introduction of CNG bikes is expected to impact the 100110cc and entrylevel 125cc motorcycle segments in the medium term where Hero currently holds a 66 percent market share."
+    },
+    {
+        "question": "What was Bajaj Auto's year-over-year growth in total vehicle wholesales in June?",
+        "answer": "5%",
+        "context": "Bajaj Auto reported a 5 percent yearonyear growth in total vehicle wholesales including exports reaching 358477 units in June."
+    },
+    {
+        "question": "What was the percentage increase in Bajaj Auto's total domestic sales in June compared to the same month last year?",
+        "answer": "8%",
+        "context": "Total domestic sales including commercial vehicles rose 8 percent to 216451 units compared to 199983 units in the same month last year."
+    },
+    {
+        "question": "What is the starting price of Bajaj Freedom 125?",
+        "answer": "Rs. 95,000 (ex-showroom India)",
+        "context": "The Bajaj Freedom 125 has a starting price of Rs. 95,000 (ex-showroom India)."
+    },
+    {
+        "question": "In which states will the Bajaj Freedom 125 be available in the first phase?",
+        "answer": "Maharashtra and Gujarat",
+        "context": "The Bajaj Freedom 125 will be available in Maharashtra and Gujarat in the first phase."
+    },
+    {
+        "question": "Who unveiled the Bajaj Freedom 125?",
+        "answer": "Rajiv Bajaj, managing director of Bajaj Auto, and Nitin Gadkari, Union Minister for Road Transport and Highways",
+        "context": "The Bajaj Freedom 125 was unveiled by Rajiv Bajaj, managing director of Bajaj Auto, and Nitin Gadkari, Union Minister for Road Transport and Highways."
+    },
+    {
+        "question": "What are the fuel options for the Bajaj Freedom 125?",
+        "answer": "Petrol and Compressed Natural Gas (CNG)",
+        "context": "The Bajaj Freedom 125 has flexible fuel options featuring two separate switches for petrol as well as Compressed Natural Gas (CNG)."
+    },
+    {
+        "question": "What is the mileage of the Bajaj Freedom 125 on CNG?",
+        "answer": "Approximately 200 km on one full tank",
+        "context": "The Bajaj Freedom 125 runs 102 km per kg of CNG, which would result in delivering a mileage of approximately 200 kms on one full tank of CNG."
+    },
+    {
+        "question": "What are the three variants of the Bajaj Freedom CNG bike?",
+        "answer": "Drum Drum LED, Disc LED",
+        "context": "There will be three variants of the Freedom CNG bike: Drum Drum LED and Disc LED."
+    },
+    {
+        "question": "What is the price of the top-end variant of the Bajaj Freedom 125?",
+        "answer": "Rs. 1.10 Lakh (ex-showroom India)",
+        "context": "The top-end variant of the Bajaj Freedom 125, the Disc LED, will be available at Rs. 1.10 Lakh (ex-showroom India)."
+    },
+    {
+        "question": "What is the key attribute for over 75% of 2-wheeler customers?",
+        "answer": "Fuel efficiency",
+        "context": "Over 75 percent of 2-wheeler customers rate fuel efficiency as a key attribute."
+    },
+    {
+        "question": "What is the name of the new CNG motorcycle being launched by Bajaj Auto?",
+        "answer": "Bajaj Freedom 125",
+        "context": "Bajaj Auto will be launching the world s first CNG motorcycle on 5th July at an event in Pune where Union Minister of Road Transport and Highways Nitin Gadkari is expected to be present. The bike  named  Bajaj Freedom 125   is likely to have flexible fuel options featuring two separate switches for petrol as well as CNG."
+    },
+    {
+        "question": "When will Bajaj Auto launch the Bajaj Freedom 125?",
+        "answer": "5th July",
+        "context": "Bajaj Auto will be launching the world s first CNG motorcycle on 5th July at an event in Pune where Union Minister of Road Transport and Highways Nitin Gadkari is expected to be present."
+    },
+    {
+        "question": "What type of fuel options will the Bajaj Freedom 125 have?",
+        "answer": "Petrol and CNG",
+        "context": "The bike  named  Bajaj Freedom 125   is likely to have flexible fuel options featuring two separate switches for petrol as well as CNG."
+    },
+    {
+        "question": "What is the expected price range of the Bajaj Freedom 125?",
+        "answer": "Starting close to Rs 1 lakh (ex-showroom)",
+        "context": "The Car   Bike website reports that the Bajaj Freedom 125 is expected to be priced starting close to Rs 1 lakh (exshowroom)."
+    },
+    {
+        "question": "What is the target market for the Bajaj Freedom 125?",
+        "answer": "Value-conscious customers",
+        "context": "The Punebased company will position its upcoming CNG bike towards the valueconscious customer."
+    },
+    {
+        "question": "When is Bajaj Auto expected to roll out the Bajaj Freedom 125?",
+        "answer": "April-June quarter of 2024-25",
+        "context": "Rakesh Sharma executive director of Bajaj Auto had earlier told   that a rollout is expected in the AprilJune quarter of 202425 and the company will begin with the Maharashtra market in the first phase."
+    },
+    {
+        "question": "Which countries does Bajaj Auto plan to export the Bajaj Freedom 125 to?",
+        "answer": "Bangladesh and Egypt",
+        "context": "Bajaj Auto has plans to export the CNG bike to countries like Bangladesh and Egypt."
+    },
+    {
+        "question": "What features will the Bajaj Freedom 125 have?",
+        "answer": "All-LED lighting, five-spoke alloy wheels, and a semi-digital instrument console",
+        "context": "Freedom will come with allLED lighting fivespoke alloy wheels and a semidigital instrument console the website added."
+    },
+    {
+        "question": "How did Ola Electric's sales perform in the first quarter of FY24 compared to the same period last year?",
+        "answer": "Ola Electric maintained its market leadership in Q1 FY24, selling 108,113 units, a 57.81% increase year-on-year.",
+        "context": "According to Vahan data, Ola Electric continued to dominate the E2W market in Q1 FY24, selling 108,113 units. This represents a significant 57.81% increase compared to the 68,505 units they sold in the same period last year (Q1 FY23-24).  This consistent performance over seven consecutive quarters highlights the effectiveness of their expansive S1 portfolio, which offers a range of products at attractive price points, making EVs accessible to a wider customer base."
+    },
+    {
+        "question": "What was the overall trend of electric twowheeler (E2W) sales during the first quarter of FY24 in India?",
+        "answer": "Despite new offerings from major players, E2W sales in India remained relatively stagnant during the first quarter of FY24, showing only a marginal increase of 1.62% compared to the same period last year.",
+        "context": "Vahan data reveals that the electric twowheeler (E2W) market in India experienced flat growth in the first quarter of FY24.  Despite a slew of new launches and affordable variants introduced by top manufacturers, sales only reached 222,127 units, a marginal 1.62% increase from the 218,574 units sold in the same period last year. This stagnation is attributed to various factors, including the government's reduced subsidies on EVs with the introduction of the Electric Mobility Promotion Scheme (EMPS) 2024, replacing the previous FAME2 Policy."
+    },
+    {
+        "question": "How did the reduction in government subsidies impact Ather Energy's sales in the first quarter?",
+        "answer": "Ather Energy experienced a significant decline in sales, dropping by 42% in Q1 FY24 compared to the same period last year, likely influenced by the reduced government subsidies on EVs.",
+        "context": "Ather Energy faced a setback in Q1 FY24, with sales plummeting by 42% compared to the same period last year. This decline can be attributed, in part, to the reduction in government subsidies on EVs under the new Electric Mobility Promotion Scheme (EMPS) 2024. While the company continued to introduce new products, like the family-oriented Rizta scooter, the reduced subsidies likely impacted their overall sales figures."
+    },
+    {
+        "question": "What factors contributed to the moderation of E2W sales in Q1 FY25 according to Rohan Kanwar Gupta from ICRA?",
+        "answer": "Rohan Kanwar Gupta, Vice President & Sector Head - Corporate Ratings at ICRA, attributes the moderation in E2W sales to two primary factors: the reduction in government subsidies under the EMPS 2024 and the impact of pre-buying that occurred in March 2024 ahead of the subsidy reduction.",
+        "context": "Rohan Kanwar Gupta, Vice President & Sector Head - Corporate Ratings at ICRA, highlights two key reasons for the subdued E2W sales in Q1 FY25. Firstly, the reduction in subsidy benefits under the newly implemented Electric Mobility Promotion Scheme (EMPS) 2024 played a role. Secondly, the market experienced a surge in pre-buying during March 2024 as customers rushed to capitalize on the existing FAME2 Policy benefits before they were phased out. This pre-buying spree created an artificial inflation in sales figures in the preceding months, leading to a subsequent moderation in Q1 FY25."
+    },
+    {
+        "question": "How did Bajaj Auto's sales of e-scooters perform in the first quarter of FY24?",
+        "answer": "Bajaj Auto, securing the third position in the market, witnessed a significant rise in e-scooter sales, reaching 25,782 units in Q1 FY24, marking a nearly 54% increase compared to the same period in the previous fiscal year.",
+        "context": "Bajaj Auto demonstrated a strong performance in the e-scooter segment during the first quarter of FY24. They secured the third position in the market with a total of 25,782 units sold. This achievement represents a considerable increase of nearly 54% compared to the 16,730 units sold in the corresponding quarter"
+    },
+    {
+        "question": "What is the name of the new production facility that Bajaj Auto inaugurated in Brazil?",
+        "answer": "The new production facility that Bajaj Auto inaugurated in Brazil is located in the Northeastern city of Manaus and is 9600 sq meters in size.",
+        "context": "Bajaj Auto on Wednesday announced the inauguration of a new production facility in Brazil which will initially focus on the sourcing assembly and testing of Dominar models with plans to expand to additional product lines.Set up in the Northeastern city of Manaus in 9600 sq meters of space and equipped with engine and vehicle assembly as well as testing facilities the plant has a production capacity of 20000 units per year on a single shift Bajaj Auto Ltd said in a statement."
+    },
+    {
+        "question": "What is the initial focus of the new production facility in Brazil?",
+        "answer": "The initial focus of the new production facility in Brazil is the sourcing assembly and testing of Dominar models.",
+        "context": "Bajaj Auto on Wednesday announced the inauguration of a new production facility in Brazil which will initially focus on the sourcing assembly and testing of Dominar models with plans to expand to additional product lines.Set up in the Northeastern city of Manaus in 9600 sq meters of space and equipped with engine and vehicle assembly as well as testing facilities the plant has a production capacity of 20000 units per year on a single shift Bajaj Auto Ltd said in a statement."
+    },
+    {
+        "question": "What is the production capacity of the new production facility in Brazil?",
+        "answer": "The production capacity of the new production facility in Brazil is 20000 units per year on a single shift.",
+        "context": "Bajaj Auto on Wednesday announced the inauguration of a new production facility in Brazil which will initially focus on the sourcing assembly and testing of Dominar models with plans to expand to additional product lines.Set up in the Northeastern city of Manaus in 9600 sq meters of space and equipped with engine and vehicle assembly as well as testing facilities the plant has a production capacity of 20000 units per year on a single shift Bajaj Auto Ltd said in a statement."
+    },
+    {
+        "question": "When did Bajaj Auto commence work on the new manufacturing plant in Brazil?",
+        "answer": "Bajaj Auto commenced work on the new manufacturing plant in Brazil in June last year.",
+        "context": "Bajaj Auto on Wednesday announced the inauguration of a new production facility in Brazil which will initially focus on the sourcing assembly and testing of Dominar models with plans to expand to additional product lines.Set up in the Northeastern city of Manaus in 9600 sq meters of space and equipped with engine and vehicle assembly as well as testing facilities the plant has a production capacity of 20000 units per year on a single shift Bajaj Auto Ltd said in a statement.Bajaj Auto commenced work on the new manufacturing plant in June last year and the facility became productionready within a year it said."
+    },
+    {
+        "question": "How long did it take for the new manufacturing plant in Brazil to become production-ready?",
+        "answer": "It took one year for the new manufacturing plant in Brazil to become production-ready.",
+        "context": "Bajaj Auto on Wednesday announced the inauguration of a new production facility in Brazil which will initially focus on the sourcing assembly and testing of Dominar models with plans to expand to additional product lines.Set up in the Northeastern city of Manaus in 9600 sq meters of space and equipped with engine and vehicle assembly as well as testing facilities the plant has a production capacity of 20000 units per year on a single shift Bajaj Auto Ltd said in a statement.Bajaj Auto commenced work on the new manufacturing plant in June last year and the facility became productionready within a year it said."
+    },
+    {
+        "question": "In how many countries does Bajaj Auto now sell its vehicles?",
+        "answer": "Bajaj Auto now sells its vehicles in 100 countries.",
+        "context": "Bajaj Auto on Wednesday announced the inauguration of a new production facility in Brazil which will initially focus on the sourcing assembly and testing of Dominar models with plans to expand to additional product lines.Set up in the Northeastern city of Manaus in 9600 sq meters of space and equipped with engine and vehicle assembly as well as testing facilities the plant has a production capacity of 20000 units per year on a single shift Bajaj Auto Ltd said in a statement.With the opening of the Brazil plant Bajaj Auto said it now sells its vehicles in 100 countries."
+    },
+    {
+        "question": "What is the name of the Executive Director at Bajaj Auto Ltd?",
+        "answer": "The name of the Executive Director at Bajaj Auto Ltd is Rakesh Sharma.",
+        "context": "Bajaj Auto on Wednesday announced the inauguration of a new production facility in Brazil which will initially focus on the sourcing assembly and testing of Dominar models with plans to expand to additional product lines.Set up in the Northeastern city of Manaus in 9600 sq meters of space and equipped with engine and vehicle assembly as well as testing facilities the plant has a production capacity of 20000 units per year on a single shift Bajaj Auto Ltd said in a statement.With the opening of the Brazil plant Bajaj Auto said it now sells its vehicles in 100 countries. With the establishment of our own plant in Brazil we have achieved a quantum shift in our local capability to fulfil demand. Our Dominar brand has received an outstanding reception since its launch 18 months ago. The new manufacturing capabilities will enable us to build a wider distribution network introduce new products and meet growing expectations of our customers  said Rakesh Sharma Executive Director at Bajaj Auto Ltd."
+    },
+    {
+        "question": "What is the name of the motorcycle brand that Bajaj Auto plans to introduce in Brazil?",
+        "answer": "The motorcycle brand that Bajaj Auto plans to introduce in Brazil is the Dominar brand.",
+        "context": "Bajaj Auto on Wednesday announced the inauguration of a new production facility in Brazil which will initially focus on the sourcing assembly and testing of Dominar models with plans to expand to additional product lines.Set up in the Northeastern city of Manaus in 9600 sq meters of space and equipped with engine and vehicle assembly as well as testing facilities the plant has a production capacity of 20000 units per year on a single shift Bajaj Auto Ltd said in a statement.With the opening of the Brazil plant Bajaj Auto said it now sells its vehicles in 100 countries. With the establishment of our own plant in Brazil we have achieved a quantum shift in our local capability to fulfil demand. Our Dominar brand has received an outstanding reception since its launch 18 months ago. The new manufacturing capabilities will enable us to build a wider distribution network introduce new products and meet growing expectations of our customers  said Rakesh Sharma Executive Director at Bajaj Auto Ltd."
+    },
+    {
+        "question": "What is Prabhudas Lilladher's research report on Bajaj Auto?",
+        "answer": "Prabhudas Lilladher's research report on Bajaj Auto provides a detailed overview of the company's 2W, 3W, and EV businesses.",
+        "context": "Prabhudas Lilladher s research report on Bajaj AutoWe met with the management of Bajaj Auto wherein the management gave a detailed overview of its 2W 3W EV businesses."
+    },
+    {
+        "question": "What are the management's expectations for Bajaj Auto's African volume?",
+        "answer": "The management expects African volume to continue to be under pressure due to currency devaluation.",
+        "context": "The management expects African volume to continue to be under pressure due to currency devaluation"
+    },
+    {
+        "question": "How has the absence of African volume been offset by Bajaj Auto?",
+        "answer": "The absence of African volume has been offset by a better mix in its international volume.",
+        "context": "however the absence of African volume has been offset by a better mix in its international volume."
+    },
+    {
+        "question": "What is the current production level of Triumph motorcycles?",
+        "answer": "The current production level of Triumph motorcycles is 6k units per month.",
+        "context": "Its Triumph launch has been well received in the US and UK its key markets. The management aims to gradually scale up the production of Triumph to  10k units month (currently at  6k units month)."
+    },
+    {
+        "question": "What is the profitability of Bajaj Auto's E3W?",
+        "answer": "The profitability of Bajaj Auto's E3W is on par with ICE powertrain.",
+        "context": "Additionally E3W profitability is on par with ICE powertrain while the path towards profitability for Escooters will be gradual."
+    },
+    {
+        "question": "What is BJAUT's outlook for its growth prospects?",
+        "answer": "BJAUT remains optimistic on its growth prospects which will be led by a robust product portfolio for domestic and international markets.",
+        "context": "BJAUT remains optimistic on its growth prospects which will be led by a robust product portfolio for domestic and international markets."
+    },
+    {
+        "question": "What is Prabhudas Lilladher's revised target price for Bajaj Auto?",
+        "answer": "Prabhudas Lilladher's revised target price for Bajaj Auto is Rs9984.",
+        "context": "Given the high growth rate in Escooters 3W market share expansion and consistent mix improvement we change our rating from  Sell  to  Hold  and revise our target price upwards to Rs9984 valuing the company at 27x (20x earlier) factoring in the high growth rate in the EV and premium segments."
+    },
+    {
+        "question": "What is the CAGR of Bajaj Auto's revenue, EBITDA, and APAT over FY24-FY26E?",
+        "answer": "Prabhudas Lilladher estimates Bajaj Auto's revenue, EBITDA, and APAT to grow at a CAGR of 13.8%, 18.4%, and 16.7% over FY24-FY26E.",
+        "context": "Factoring this we estimate its revenue EBITDA APAT to grow at a CAGR of 13.8  18.4  16.7  over FY24 FY26E."
+    }
+]
